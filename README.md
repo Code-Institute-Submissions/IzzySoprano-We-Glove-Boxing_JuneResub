@@ -257,7 +257,7 @@ The following section describes the site design and page layouts to demonstrate 
 
 ## Defensive Design Features
 
-*** ### Adding products to bag: ***
+***###Adding products to bag:***
    - A user cannot add more than 99 quantity of a product
    - A user cannot add 0 quantity of a product
    - If an item is in a bag an the user changes the quantity to 0, the item will be removed
