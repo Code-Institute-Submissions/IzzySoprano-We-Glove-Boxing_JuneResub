@@ -79,41 +79,43 @@ I achieve this by:
 
 #### Viewing and Navigation
 
-1. As a **shopper**, I want to be able to view a list of products so that I can choose some items to purchase.
-2. As a **shopper**, I want to be able to filter products that I am interested in without searching through all the products.
-3. As a **shopper**, I want to be able to select individual products to see more detailed information and add the item to my shopping cart.
-4. As a **shopper**, I want to be able to see any product special offers, new arrivals and available deals, taking advantage of any reduced prices shown.
-5. As a **shopper**, I want to be able to see items I have placed in my shopping cart easily so that I can keep track oof what I am buying
-6. As a **shopper**, I want to be able to see breadcrumb navigation links to see where I am on the site easily.
+As a **shopper**, I want to be able to view a list of products so that I can choose some items to purchase.
+As a **shopper**, I want to be able to filter products that I am interested in without searching through all the products.
+As a **shopper**, I want to be able to select individual products to see more detailed information and add the item to my shopping cart.
+As a **shopper**, I want to be able to see any product special offers, new arrivals and available deals, taking advantage of any reduced prices shown.
+As a **shopper**, I want to be able to see items I have placed in my shopping cart easily so that I can keep track oof what I am buying
+As a **shopper**, I want to be able to see breadcrumb navigation links to see where I am on the site easily.
 
 #### Registration and User Accounts 
 
-7. As a **site user**, I want to be able to register for an account to make future purchases easier
-8. As a **site user**, I want to be able to easily log in and out of my account so that I can access my personal account information
-9. As a **site user**, I want to be able to receive and email requireing me to verify my email account to finish account registeration.
-10. As a **site user**, I want to be able to log in and have a personal profile page containing my delivery details and order history
-11. As a **site user**, I want to be able to save and update my delivery information on my personal profile page.
+As a **site user**, I want to be able to register for an account to make future purchases easier
+As a **site user**, I want to be able to easily log in and out of my account so that I can access my personal account information
+As a **site user**, I want to be able to receive and email requireing me to verify my email account to finish account registeration.
+As a **site user**, I want to be able to log in and have a personal profile page containing my delivery details and order history
+As a **site user**, I want to be able to save and update my delivery information on my personal profile page.
 
 #### Sorting and Searching 
 
-12. As a **shopper**, I want to be able to sort the available products by price, main category, sub-category or product type
-13. As a **shopper**, I want to be able to filter and group products for men, women, unisex or kids.
-14. As a **shopper**, I want to be able to see how many products are available based on the sorting / filtering I have applied
-15. As a **shopper**, I want to be able to search for a product by name, type or category.
+
+As a **shopper**, I want to be able to sort the available products by price, main category, sub-category or product type
+As a **shopper**, I want to be able to filter and group products for men, women, unisex or kids.
+As a **shopper**, I want to be able to see how many products are available based on the sorting / filtering I have applied
+As a **shopper**, I want to be able to search for a product by name, type or category.
 
 #### Purchasing and Checkout 
 
-16. As a **shopper**, I want to be able to easily select the size and qualtity of a product when adding it to the shopping cart
-17. As a **shopper**, I want to be able to view the items in my shopping cart waiting to be purchased, seeing the sub-total, delivery costs and grand total amounts.
-18. As a **shopper**, I want to be able to easily update the items in the shopping cart by changing the quantities of products or remove them from the cart.
-19. As a **shopper**, I want to be able to checkout securely where I can enter my delivery and credit card payment details with confidence.
-20. As a **shopper**, I want to be able to view an order confirmation page as well as receive and email order confirmation once the transaction has succeeded.
+
+As a **shopper**, I want to be able to easily select the size and qualtity of a product when adding it to the shopping cart
+As a **shopper**, I want to be able to view the items in my shopping cart waiting to be purchased, seeing the sub-total, delivery costs and grand total amounts.
+As a **shopper**, I want to be able to easily update the items in the shopping cart by changing the quantities of products or remove them from the cart.
+As a **shopper**, I want to be able to checkout securely where I can enter my delivery and credit card payment details with confidence.
+As a **shopper**, I want to be able to view an order confirmation page as well as receive and email order confirmation once the transaction has succeeded.
 
 #### Admin and Store Management
 
-21. As a **store owner**, I want to be able to add new products to my store
-22. As a **store owner**, I want to be able to edit / update the current product details and replace the product image file
-23. As a **store owner**, I want to be able to delete a product that is no longer for sale.
+As a **store owner**, I want to be able to add new products to my store
+As a **store owner**, I want to be able to edit / update the current product details and replace the product image file
+As a **store owner**, I want to be able to delete a product that is no longer for sale.
 
 [Back to contents](#contents)
 
