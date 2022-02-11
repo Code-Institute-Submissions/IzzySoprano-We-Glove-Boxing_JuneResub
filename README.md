@@ -6,7 +6,7 @@ The site functionality will allow a common shopping experience for the visitor b
 
 ***Please note: This site is purely for educational purposes only. The credit card payment facility is real but remains in test mode and so no payments will be taken. Please do not enter real credit card details when using this site.***
 
-![We-Glove-Boxing](media/WeGlove-Boxing-Logo.png)
+![We-Glove-Boxing](media/We-Glove-Boxing(Logo).png)
 
 --
 
