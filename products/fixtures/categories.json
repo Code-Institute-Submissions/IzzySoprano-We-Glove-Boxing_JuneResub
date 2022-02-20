@@ -1,0 +1,42 @@
+[
+    {
+      "pk": 1,
+      "model": "products.category",
+      "fields": {
+        "name": "boxing",
+        "friendly_name": "Boxing"
+      }
+    },
+    {
+      "pk": 2,
+      "model": "products.category",
+      "fields": {
+        "name": "boxing_apparel",
+        "friendly_name": "Boxing Apparel"
+      }
+    },
+    {
+      "pk": 3,
+      "model": "products.category",
+      "fields": {
+        "name": "women",
+        "friendly_name": "Women"
+      }
+    },
+    {
+      "pk": 4,
+      "model": "products.category",
+      "fields": {
+        "name": "kids",
+        "friendly_name": "Kids"
+      }
+    },
+    {
+      "pk": 5,
+      "model": "products.category",
+      "fields": {
+        "name": "boxing_fitness_and_accessories",
+        "friendly_name": "Boxing Fitness & Accessories "
+      }
+    }
+  ]
