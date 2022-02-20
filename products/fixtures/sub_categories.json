@@ -1,0 +1,162 @@
+[
+    {
+      "pk": 1,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "gloves",
+        "display_name": "Gloves"
+      }
+    },
+    {
+      "pk": 2,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "footwear",
+        "display_name": "Footwear"
+      }
+    },
+    {
+      "pk": 3,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "bags",
+        "display_name": "Bags"
+      }
+    },
+    {
+      "pk": 4,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "hand_wraps",
+        "display_name": "Hand Wraps"
+      }
+    },
+    {
+      "pk": 5,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "pads",
+        "display_name": "Pads"
+      }
+    },
+    {
+      "pk": 6,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "head_guards",
+        "display_name": "HeadGuards"
+      }
+    },
+    {
+      "pk": 7,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "mouth_guards",
+        "display_name": "MouthGuards"
+      }
+    },
+    {
+      "pk": 8,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "groin_guards",
+        "display_name": "GroinGuards"
+      }
+    },
+    {
+      "pk": 9,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "tracksuits",
+        "display_name": "Tracksuits"
+      }
+    },
+    {
+      "pk": 10,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "hoodies",
+        "display_name": "Hoodies"
+      }
+    },
+    {
+      "pk": 11,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "t_shirts_and_vests",
+        "display_name": "T Shirts & Vests"
+      }
+    },
+    {
+      "pk": 12,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "shorts",
+        "display_name": "Shorts"
+      }
+    },
+    {
+      "pk": 13,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "dumbbells",
+        "display_name": "Dumbbells"
+      }
+    },
+    {
+      "pk": 14,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "kettle_bells",
+        "display_name": "Kettle Bells"
+      }
+    },
+    {
+      "pk": 15,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "medicine_balls",
+        "display_name": "Medicine Balls"
+      }
+    },
+    {
+      "pk": 16,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "weight_vests",
+        "display_name": "Weight Vests"
+      }
+    },
+    {
+      "pk": 17,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "jump_ropes",
+        "display_name": "Jump Ropes"
+      }
+    },
+    {
+      "pk": 18,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "wrist_weights",
+        "display_name": "Wrist Weights"
+      }
+    },
+    {
+      "pk": 19,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "push_up_bars",
+        "display_name": "Push Up Bars"
+      }
+    },
+    {
+      "pk": 20,
+      "model": "products.sub_categories",
+      "fields": {
+        "name": "water_bottles",
+        "display_name": "Water Bottles"
+      }
+    }
+  ]
