@@ -16,9 +16,9 @@
                 Boxing
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="all-products-link">
-                <a href="" class="dropdown-item">Gloves</a>
-                <a href="" class="dropdown-item">Pads</a>
-                <a href="" class="dropdown-item">Heavy Bags</a>
+                <a href="{% url 'products' %}?sub_categories=gloves" class="dropdown-item">Gloves</a>
+                <a href="{% url 'products' %}?sub_categories=pads" class="dropdown-item">Pads</a>
+                <a href="{% url 'products' %}?sub_categories=bags" class="dropdown-item">Heavy Bags</a>
             </div>
         </li>
 
@@ -27,8 +27,9 @@
                 Clothing
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">Womens</a>
-                <a href="" class="dropdown-item">Kids</a>
+                <a href="{% url 'products' %}?category=" class="dropdown-item">Mens</a>
+                <a href="{% url 'products' %}?category=women" class="dropdown-item">Womens</a>
+                <a href="{% url 'products' %}?category=kids" class="dropdown-item">Kids</a>
             </div>
         </li>
 
@@ -37,7 +38,7 @@
                Footwear
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Boxing Boots</a>
+                <a href="{% url 'products' %}?sub_categories=footwear" class="dropdown-item">Boxing Boots</a>
             </div>
         </li>
         <li class="nav-item dropdown">
@@ -45,10 +46,10 @@
                Protection
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Head Guards</a>
-                <a href="" class="dropdown-item">Groin Guards<a>
-                <a href="" class="dropdown-item">Mouth Guards</a>
-                <a href="" class="dropdown-item">Hand Wraps</a>
+                <a href="{% url 'products' %}?sub_categories=head_guards" class="dropdown-item">Head Guards</a>
+                <a href="{% url 'products' %}?sub_categories=groin_guards" class="dropdown-item">Groin Guards<a>
+                <a href="{% url 'products' %}?sub_categories=mouth_guards" class="dropdown-item">Mouth Guards</a>
+                <a href="{% url 'products' %}?sub_categories=hand_wraps" class="dropdown-item">Hand Wraps</a>
             </div>
         </li>
         <li class="nav-item dropdown">
@@ -56,13 +57,14 @@
                Boxing Fitness & Accessories
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
-                <a href="" class="dropdown-item">Skipping Ropes</a>
-                <a href="" class="dropdown-item">Medicine Balls<a>
-                <a href="" class="dropdown-item">Resistance Training</a>
-                <a href="" class="dropdown-item">Weighted Equipment</a>
-                <a href="" class="dropdown-item">Dumbbells, Weights & Bars<a>
-                <a href="" class="dropdown-item">Weight Vests</a>
-                <a href="" class="dropdown-item">Sports Bottles</a>
+                <a href="{% url 'products' %}?sub_categories=jump_ropes" class="dropdown-item">Skipping Ropes</a>
+                <a href="{% url 'products' %}?sub_categories=medicine_balls" class="dropdown-item">Medicine Balls<a>
+                <a href="{% url 'products' %}?sub_categories=dumbbells" class="dropdown-item">Dumbbells</a>
+                <a href="{% url 'products' %}?sub_categories=kettle_bars" class="dropdown-item">Kettle Bells</a>
+                <a href="{% url 'products' %}?sub_categories=weight_vests" class="dropdown-item">Weight Vests<a>
+                <a href="{% url 'products' %}?sub_categories=wrist_weights" class="dropdown-item">Wrist Weights</a>
+                <a href="{% url 'products' %}?sub_categories=push_up_bars" class="dropdown-item">Push Up Bars</a>
+                <a href="{% url 'products' %}?sub_categories=water_bottles" class="dropdown-item">Sports Bottles</a>
             </div>
         </li>
 
