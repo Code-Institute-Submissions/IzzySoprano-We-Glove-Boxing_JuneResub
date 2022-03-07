@@ -281,6 +281,8 @@ The following section describes the site design and page layouts to demonstrate 
 
 # Bugs 
 
+All new bugs and issues are tracked within the GitHub repository [Issues section](https://github.com/IzzySoprano/We-Glove-Boxing/Issues) .
+
 
 # Testing
 
