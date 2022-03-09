@@ -36,6 +36,7 @@ def webhook(request):
     # Set up a webhook handler
     handler = StripeWH_Handler(request)
 
+
     # Map webhook events to relevant handler functions
     event_map = {
         'payment_intent.succeeded': handler.handle_payment_intent_succeeded,
