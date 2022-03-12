@@ -1,5 +1,6 @@
 from django.shortcuts import render, redirect, reverse, get_object_or_404
 from django.contrib import messages
+from django.contrib.auth.decorators import login_required
 from django.db.models import Q
 from .models import Product, Category, SubCategory
 
@@ -7,7 +8,6 @@ from .models import Product, Category
 from .forms import ProductForm
 
 
-# Create your views here.
 def all_products(request):
     """ View to return all products, and sorting and searching """
 
@@ -76,10 +76,11 @@ def product_detail(request, product_id):
 
     return render(request, 'products/product_detail.html', context)
 
+@login_required
 def add_product(request):
     """ Add a product to the store """
     if not request.user.is_superuser:
-        messages.error(request, 'Sorry, you are unautorized')
+        messages.error(request, 'Sorry, you are not authorised to do this')
         return redirect(reverse('home'))
 
     if request.method == 'POST':
@@ -101,10 +102,11 @@ def add_product(request):
     return render(request, template, context)
 
 
+@login_required
 def edit_product(request, product_id):
     """ Edit a product in the store """
     if not request.user.is_superuser:
-        messages.error(request, 'Sorry, you are unautorized')
+        messages.error(request, 'Sorry, you are not authorised to do this')
         return redirect(reverse('home'))
 
     product = get_object_or_404(Product, pk=product_id)
@@ -129,10 +131,11 @@ def edit_product(request, product_id):
     return render(request, template, context)
 
 
+@login_required
 def delete_product(request, product_id):
     """ Delete a product from the store """
     if not request.user.is_superuser:
-        messages.error(request, 'Sorry, you are unautorized')
+        messages.error(request, 'Sorry, you are not authorised to do this')
         return redirect(reverse('home'))
 
     product = get_object_or_404(Product, pk=product_id)
