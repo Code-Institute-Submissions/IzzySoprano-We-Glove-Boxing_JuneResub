@@ -1,0 +1,1 @@
+web: gunicorn we_glove_boxing.wsgi

@@ -61,8 +61,10 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
 ]
 
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 ROOT_URLCONF = 'we_glove_boxing.urls'
 
 CRISPY_TEMPALTE_PACK = 'bootstrap4'
@@ -126,7 +128,7 @@ WSGI_APPLICATION = 'we_glove_boxing.wsgi.application'
 # }
 
 DATABASES = {
-    'default': dj_database_url.parse(os.environ('DATABASE_URL'))
+    'default': dj_database_url.parse(os.getenv('DATABASE_URL', ''))
 }
 
 # DATABASES = {
