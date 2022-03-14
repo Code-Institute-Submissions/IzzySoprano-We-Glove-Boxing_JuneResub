@@ -33,6 +33,11 @@ def all_products(request):
                     sortkey = f'-{sortkey}'
             products = products.order_by(sortkey)
 
+        if 'gender' in request.GET:
+            gender = request.GET['gender'].split(',')
+            products = products.filter(
+                gender__name__in=gender)
+
         if 'Category' in request.GET:
             categories = request.GET['category'].split(',')
             products = products.filter(category__name__in=categories)
@@ -48,7 +53,9 @@ def all_products(request):
                 return redirect(reverse('products'))
 
             queries = (
-                Q(name__icontains=query) | Q(product_description__icontains=query)
+                Q(name__icontains=query) | 
+                Q(product_description__icontains=query) |
+                Q(gender__name__icontains=query)
             )
             products = products.filter(queries)
 

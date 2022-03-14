@@ -25,6 +25,7 @@
     "pk": 3,
     "fields": {
         "price": 5.50,
+        "gender": "men",
         "sku": "6814201",
         "name": "Pro Power Boxing Hand Wraps",
         "product_description": "These hand wraps are ideal for MMA, Boxing, Muay Thai and other combat sports.",
@@ -58,6 +59,7 @@
     "pk": 6,
     "fields": {
         "price": 189.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ZAMMIR STYLE CUSTOM SHORT",
         "product_description": "Designed exclusively for one of We Glpve Boxing's Amateur boxers Zammir Khan.",
@@ -80,6 +82,7 @@
     "pk": 8,
     "fields": {
         "price": 21.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "KRONK DETROIT YELLOW T-SHIRT",
         "product_description": "Men's 'KRONK DETROIT' printed Tee shirt with suede effect chest print. Kronk gym was founded in Detroit in the neighbourhood recreational centre, 1969. The legend lives on today although the gym has been relocated across town.",
@@ -91,6 +94,7 @@
     "pk": 9,
     "fields": {
         "price": 21.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "KRONK BOXING CLASSIC T-SHIRT",
         "product_description": "Men's KRONK Boxing Classic printed Tee shirt in collegiate graphic design. Kronk gym was founded in Detroit in the neighbourhood recreational centre, 1969. The legend lives on today although the gym has been relocated across town.",
@@ -102,6 +106,7 @@
     "pk": 10,
     "fields": {
         "price": 39.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "ADIDAS NEW HAVOC JUNIOR RING BOOT",
         "product_description": "The Adidas Havoc Junior Ring Boot features three pivot points on a one-piece rubber outsole which will help to deliver consistent grip for fast attacks and swift takedowns. They have a durable heel and toe and a secure lace strap thats keeps you performing at your best along with a mix of leather and synthetic suede upper for durability and ultimate breathability. These Adidas Havoc Wrestling Boots are a lightweight, durable boot with a traditional design but still giving you a superior performance.",
@@ -124,6 +129,7 @@
     "pk": 12,
     "fields": {
         "price": 19.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS TECHFIT BASE TEE",
         "product_description": "Adidas Techfit Base Tee",
@@ -135,6 +141,7 @@
     "pk": 13,
     "fields": {
         "price": 21.99, 
+        "gender": "men",
         "sku": "6814201",
         "name": "KRONK ONE COLOUR GLOVES SLIM FIT T-SHIRT",
         "product_description": "Men's 'KRONK GLOVES' One colour printed Slim Fit Tee shirt with chest print and sleeve tab. Bold one colour interpretation of the Iconic Kronk Gloves logo.  Slightly fitted fashion/sports fit which will accentuate your body shape",
@@ -190,6 +197,7 @@
     "pk": 18,
     "fields": {
         "price": 39.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "KRONK GLOVES CREW SWEATSHIRT",
         "product_description": "Kronk Gloves Crew Neck Sweatshirt. Crew neck sweatshirt with the Kronk and gloves logo printed to the front. This sweat features a taped neck with ribbed collar, cuff and hem including Spandex. Soft cotton faced fabric for a stylish fit.  Anti pill with a soft feel.",
@@ -212,6 +220,7 @@
     "pk": 20,
     "fields": {
         "price": 21.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "KRONK TRAINING CAMP TEE",
         "product_description": "Men's 'KRONK TRAINING TEE' with chest print. This is  a great looking t-shirt to wear in the gym.",
@@ -278,6 +287,7 @@
     "pk": 26,
     "fields": {
         "price": 42.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS BASE PUNCH II BOXING SET",
         "product_description": "The Adidas Base Punch II Boxing Set is lightweight and has superior moisture management. The vest has been cut especially for boxing giving you the movement you need when in the ring. This set is ideal for amateur contest or competitions.",
@@ -289,6 +299,7 @@
     "pk": 27,
     "fields": {
         "price": 22.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS BASE PUNCH II BOXING VEST",
         "product_description": "The Adidas Base Punch II Boxing Vest is lightweight and has superior moisture management. It has been cut especially for boxing giving you the movement you need when in the ring. This vest is ideal for amateur contest or competition and matching shorts are also available to complete the look.",
@@ -322,6 +333,7 @@
     "pk": 30,
     "fields": {
         "price": 39.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "BXF WOMENS MELANGE KNIT FLEECE JACKET",
         "product_description": "Make sure your wrapped up warm on those cooling night. This melange knit fleece jacket has a soft brushed interior and contrast binding for a comfortable fit that helps trap in warmth. The hooded fleece also has a chin guard and the two open pockets are ideal for putting small items in. Soft-fleece fabric is warm and comfortable. Hood with chin guard for additional coverage. Full-zip through. 100% Polyester. Weight 280gsm",
@@ -333,6 +345,7 @@
     "pk": 31,
     "fields": {
         "price": 74.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS MAT WIZARD 4 RING BOOTS",
         "product_description": "The next generation, the Adidas Mat Wizard 4 Boot is wide fit that provides increased support. It features single-layer give you durablity and ensures breathability allowing your feet to keep cool. Internal, die-cut midsole assists perfect ‘attack stance’ essential for combat sports. Strong, lightweight underlays for support around the midfoot and ankle. These boots are based on a wrestling boot design but adopted as a boxing boot by many boxers.",
@@ -344,6 +357,7 @@
     "pk": 32,
     "fields": {
         "price": 39.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "KRONK DETROIT CREW SWEATSHIRT",
         "product_description": "Kronk Detroit Crew Neck Sweatshirt.  Crew neck sweatshirt with the Kronk Detroit logo printed to the front. This sweat features a taped neck with ribbed collar, cuff and hem including Spandex. Soft cotton faced fabric for a stylish fit. Anti pill with a soft feel.",
@@ -355,6 +369,7 @@
     "pk": 33,
     "fields": {
         "price": 34.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "KRONK SLEEVELESS ZIP HOODIE GILET",
         "product_description": "KRONK zip through sleeveless Hoodie with small Kronk Detroit embroidery on chest. Sleeveless hoodie, perfect as an extra layer for training or leisurewear. Stylish fit with a front pouch pockets, double fabric hood, YKK zipper, and flat drawstrings. Arm openings have a self fabric trim.",
@@ -366,6 +381,7 @@
     "pk": 34,
     "fields": {
         "price": 59.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "NIKE ACADEMY 18 KNIT MENS TRACKSUIT",
         "product_description": "This is a great tracksuit set, and can be used for training, travelling and leisurewear. Its Dri-FIT fabric wicks sweat while mesh ventilates. It features articulated elbows and knees provide an ergonomic fit. The jacket has front-zippered pocket on each side provide convenient storage. Iconic stripes are sewn on the shoulders.",
@@ -377,6 +393,7 @@
     "pk": 35,
     "fields": {
         "price": 59.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "NIKE ACADEMY 18 KNIT MENS TRACKSUIT",
         "product_description": "This is a great tracksuit set, and can be used for training, travelling and leisurewear. Its Dri-FIT fabric wicks sweat while mesh ventilates. It features articulated elbows and knees provide an ergonomic fit. The jacket has front-zippered pocket on each side provide convenient storage. Iconic stripes are sewn on the shoulders.",
@@ -388,6 +405,7 @@
     "pk": 36,
     "fields": {
         "price": 24.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "KRONK POLO SHIRT",
         "product_description": "Kronk Men's Short Sleeved Polo Shirt.  Two button classic pique polo t-shirt with short sleeves and side vents.  Made from 100% combed cotton with knitted collar and cuffs.",
@@ -410,6 +428,7 @@
     "pk": 38,
     "fields": {
         "price": 19.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "KRONK DETROIT BLACK T-SHIRT",
         "product_description": "Men's 'KRONK DETROIT' printed Tee shirt with chest print. Kronk gym was founded in Detroit in the neighbourhood recreational centre, 1969. The legend lives on today although the gym has been relocated across town.",
@@ -421,6 +440,7 @@
     "pk": 39,
     "fields": {
         "price": 15.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "SHEEDY CURVED BOXING SHORTS",
         "product_description": "These curved hem boxing shorts are made with a standard length in the finest satin and will make your fight night a night to remember. This style of curved short was inspired by Terry Flanagan and has become an increasingly popular choice.",
@@ -432,6 +452,7 @@
     "pk": 40,
     "fields": {
         "price": 19.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "HYDE BOXING SHORTS",
         "product_description": "Grab these increasingly popular style of curved hem boxing shorts that have been inspired by Sam Hyde. They have luxury gold stitiching for that added finesse!",
@@ -443,6 +464,7 @@
     "pk": 41,
     "fields": {
         "price": 19.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "EDWARDS BOXING SHORT",
         "product_description": "Grab these winning shorts that are a standard length with luxury gold details that are inspired by Charlie Edwards. Make sure you stand out in the ring with these great looking shorts.",
@@ -520,6 +542,7 @@
     "pk": 48,
     "fields": {
         "price": 40.00,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS T19 TRACK JACKET",
         "product_description": "",
@@ -531,6 +554,7 @@
     "pk": 49,
     "fields": {
         "price": 44.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "ADIDAS T19 WOMENS WOVEN JACKET",
         "product_description": "The Adidas T19 Woven Jacket will keep you dry and warmer on those cooler days. The soft Climalite construction wicks away sweat as you train. This women's jacket has a regular fit and features a full-zip entry along with a stylish stand-up collar. For added style, it also features a contrast trim at sleeve cuffs and waistline, zippered pockets for storage, and an Adidas logo at right chest.",
@@ -542,6 +566,7 @@
     "pk": 50,
     "fields": {
         "price": 19.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "BOXFIT COOL TRAINING SHORTS",
         "product_description": "Designed with exceptional comfort in mind these cool jog shorts are ideal for the gym or relaxing at home. Made from wicking polycotton fabric and with relaxed fit they also feature an elasticated waistband with drawcords along with pockets at the side seams. Features the Boxfit logo on the left leg.",
@@ -553,6 +578,7 @@
     "pk": 51,
     "fields": {
         "price": 26.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "OPRO POWER-FIT JUNIOR GALAXY SHIMMER MOUTHGUARD",
         "product_description": "Dazzle your competition, to allow you to take control. Giving you the same retention and comfort as the adult version the Opro Power-Fit Junior Galaxy Shimmer Mouthguard has been engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
@@ -564,6 +590,7 @@
     "pk": 52,
     "fields": {
         "price": 26.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "OPRO POWER-FIT JUNIOR JAWS MOUTHGUARD",
         "product_description": "Be sure to scare away the competition with the Opro Power-Fit Junior Jaws mouthguard. Featuring a shark tooth effect on the front you’ll leave your rivals struggling to strike. Giving you the same retention and comfort as the adult version its been engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
@@ -575,6 +602,7 @@
     "pk": 53,
     "fields": {
         "price": 26.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "OPRO POWER-FIT JUNIOR URBAN MOUTHGUARD",
         "product_description": "Children's gum shields needn’t be dull the Junior Power-Fit Urban mouthguard from Opro has a unique flame design, these offer a mix of style and hard-wearing retention. Engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
@@ -586,6 +614,7 @@
     "pk": 54,
     "fields": {
         "price": 26.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "OPRO POWER-FIT JUNIOR COUNTRIES MOUTHGUARD",
         "product_description": "Let your patriotism shine as bright as your skills with the Opro Junior Power-Fit Countries mouthguard. Giving you the same retention and comfort as the adult version it has been engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
@@ -597,6 +626,7 @@
     "pk": 55,
     "fields": {
         "price": 124.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS MAT WIZARD HYPE RING BOOTS",
         "product_description": "The Adidas Mat Wizard Hype Boot is a special edition of the Mat Wizard with its wide fit that provides increased support. It is lightweight, ensuring breathability and comfort.  With both  and lateral sides this boot provides a consistent surface contact and firm grip to the mat even in extreme foot angles. The triaxial structured outsole assists the perfect ‘attack stance’ essential for combat sports. These boots are based on a wrestling boot design but adopted as a boxing boot by many boxers.",
@@ -630,6 +660,7 @@
     "pk": 58,
     "fields": {
         "price": 19.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS POLY SATIN BOXING SHORT",
         "product_description": "Adidas Poly Satin Boxing Shorts are made from 100% Polyester Satin.  They feature a large elasticated waistband with cord tightening and have the Adidas logo printed to the front left leg in contrasting colours.",
@@ -663,6 +694,7 @@
     "pk": 61,
     "fields": {
         "price": 99.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "RIVAL RSX-GUERRERO DELUXE BOXING BOOTS",
         "product_description": "Now, this is what we call style! The Rival RSX-Guerrero Deluxe boxing boots is the design and technical evolution of Rivals classic lo-top boxing boots. These fantastic looking boots have been uniquely engineered for both training and competition. With a mid-top design, these boots give you the optimal ankle support and stability regardless if you are in training or in your fights. Another great feature to this quality boot is a carbon fibre textured heel cap which ensures added support and a longer boot life. The Ringside Guerrero Deluxe also has a hugely improved inner fitting for ultimate comfort as well as breathable mesh on both sides for ventilation. This boxing boot features a new and improved rubber compound providing better traction and durability. The sole also includes an inner steel shaft in it for optimized performance and longer life.",
@@ -674,6 +706,7 @@
     "pk": 62,
     "fields": {
         "price": 62.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "RIVAL RSX-GENESIS BOXING BOOTS",
         "product_description": "What more can we say, Pro quality at a great price. The Ringside RSX-Genesis is the perfect boxing boot for everyone from professionals to beginners. Specially designed and engineered for boxing, the RSX-Genesis is the re-birth of the perfect boxing boot. they have been specially built for speed and durability ensuring they will survive the toughest work you can throw at it. A classic, beautiful looking boot that provides ultimate comfort with breathable mesh and a reinforced heel. It also features a resistant rubber sole that is perfect for movement and stability on the canvas, and is reinforced with a steel shaft for extra strength. Add to that, the stylish and effective ankle strap for added support.",
@@ -685,6 +718,7 @@
     "pk": 63,
     "fields": {
         "price": 79.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "RINGSIDE PRO APPAREL FUNNEL NECK TRACKSUIT",
         "product_description": "The Ringside Pro Funnel Neck Apparel Tracksuit has been designed to provide the perfect balance between performance and style. Premium quality fabrics are combined with a clean, tapered cut and reflective branding throughout for late night roadwork. Extremely comfortable and beautifully fitted, this tracksuit is at home in the gym and the street.",
@@ -696,6 +730,7 @@
     "pk": 64,
     "fields": {
         "price": 49.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "CAOIMHIN AGYARKO SLIM FIT POLY TRACKSUIT",
         "product_description": "Keep it casual and stylish with this great looking tracksuit. It features the logo on the left chest and text on the back. Whether you’re hitting the gym or just chilling this tracksuit is perfect. This tracksuit has contrasting panels on the sleeves and sides of the bottoms and a contrasting front zip on the jacket. Both jacket and bottoms have zipped pockets",
@@ -707,6 +742,7 @@
     "pk": 65,
     "fields": {
         "price": 35.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "RINGSIDE PRO APPAREL VECTOR BOXING BOOTS",
         "product_description": "Have the confidence to move with control and intent in these new Ringside Pro Apparel Vector Boots. You'll get supreme grip and fantastic pivot capabilities from the specially designed cupped,  traction control sole ensuring you can concentrate on your fight.The breathable mesh and synthetic nubuck upper provides comfortable support and is both washable and quick drying. Another great thing with these boots is they are super lightweight with premium construction throughout, we are sure that the Vector boot will set the standard for boxing boots in 2020.",
@@ -718,6 +754,7 @@
     "pk": 66,
     "fields": {
         "price": 29.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "BXF WOMENS PANELLED LEGGINGS",
         "product_description": "Everyone needs a good pair of black leggings, don't they? Well, with these fashion panelled leggings you will make the right statement. The on-trend mesh and innovative laser cut panels give superior styling, whist the high waistband and opaque fabric make them the perfect squat-proof option to push you through your workout. They feature a small BXF logo small on the bottom of the back right leg",
@@ -729,6 +766,7 @@
     "pk": 67,
     "fields": {
         "price": 24.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "BXF WOMENS REFLECTIVE WINDSHIELD JACKET",
         "product_description": "Stay warm and on-trend in this girlie cool windshield jacket. Perfect for throwing on when going to and from the gym but is also a welcomed protective layer for any outdoor activity. This cover-up features reflective trims to keep you seen wherever you are. To protect you from the elements is features a attached adjustable hood, shock cord adjustable hem and elasticated cuffs.",
@@ -751,6 +789,7 @@
     "pk": 69,
     "fields": {
         "price": 14.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "BXF WOMENS LIGHT CROP TOP",
         "product_description": "Layer up your workout outfit with this cropped top that  is non-restrictive and will keep you confident and cool while you work up a sweat.",
@@ -762,6 +801,7 @@
     "pk": 70,
     "fields": {
         "price": 24.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS CAMO SATIN BOXING SHORTS",
         "product_description": "Crafted in 100% polyester satin these lightweight Adidas Camo Boxing Shorts have a large elasticated waistband along with a cord at the waist for a perfect fit allowing you to fight with confidence.",
@@ -784,6 +824,7 @@
     "pk": 72,
     "fields": {
         "price": 24.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "BXF WOMENS SEAMLESS SCULPT SOLID COLOUR LEGGINGS - BLUE",
         "product_description": "You know you can't go wrong with a good pair of leggings. These sculpted leggings are seamless making them truly comfortable and allowing for freedom of movement for any workout. They also feature a body sculpting design detail that gives you a great silhouette.",
@@ -795,6 +836,7 @@
     "pk": 73,
     "fields": {
         "price": 19.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "BXF WOMENS WORKOUT VEST",
         "product_description": "Style up your workout gear with this strappy back vesst that features drop armholes, scoop neck and curved hem mean this flattering athleisure style is easy to style and layer up.",
@@ -806,6 +848,7 @@
     "pk": 74,
     "fields": {
         "price": 14.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "BXF CONTRAST T-SHIRT",
         "product_description": "Add some bold styling to your workout with this contrast side panel t-shirt. With its short sleeves and regular fit it will bring style and comfort to your training.",
@@ -817,6 +860,7 @@
     "pk": 75,
     "fields": {
         "price": 15.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "BXF KIDS SEAMLESS FADE OUT VEST",
         "product_description": "The ideal vest for working out in, this high-stretch seamless vest is comfortable and flexible no matter what you are doing. The melange fabric with ombre colouring makes this the ultimate choice for comfort and style.",
@@ -828,6 +872,7 @@
     "pk": 76,
     "fields": {
         "price": 29.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "BXF KIDS CAMO HOODIE",
         "product_description": "Get some camo into your kids wardrobe with this BXF hoodie. Made from cotton face fabric to make it really soft it also has a kangaroo pocket to the front. Throw it on after training or even pair with jeans for a trendy casual look. Has the BXF text logo to the front.",
@@ -839,6 +884,7 @@
     "pk": 77,
     "fields": {
         "price": 26.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "BXF ACTIVE PULLOVER",
         "product_description": "Fancy a change from the classic hoody? This BXF Active Pullover is just what you’re looking for with its decorative chest pocket, drawstring on the waist band and a hood that also has an inside collar. This hoody looks like a classic windbreaker but is made in a soft-cotton blend making it very comfortable. Features the BXF logo to the left chest.",
@@ -850,6 +896,7 @@
     "pk": 78,
     "fields": {
         "price": 39.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "BXF WOMENS PULLOVER JACKET",
         "product_description": "This lightweight pull over jacket is just the ticket for any weather and will get you through the seasons change. The overcut shoulders and hood with inside collar and zipper ensure optimum comfort. Made from lightweight material that features the BXF logo to the pocket flap.",
@@ -872,6 +919,7 @@
     "pk": 80,
     "fields": {
         "price": 44.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS BOXING ZIP JACKET",
         "product_description": "Warm and comfortable to wear this Adidas Boxing Zip Jacket has been made from a soft cotton material. It features a stylish high collar and pockets.  For distinct style it has The brand with the three stripes and large adidas logo print on the front.",
@@ -883,6 +931,7 @@
     "pk": 81,
     "fields": {
         "price": 19.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "BXF JOGGER SHORTS",
         "product_description": "On all-rounder pair of shorts that can be used for your workouts or lougning about. Made from a premium 300gsm 85% organic cotton, 15% polyester for ultra comfort they also feature a pocket at back. Complete with the BXF log on the left leg.",
@@ -894,6 +943,7 @@
     "pk": 82,
     "fields": {
         "price": 24.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "UNDER ARMOUR PERFORMANCE POLO TEXTURED 2.0",
         "product_description": "The Performance Polo 2.0 is now made in a fabric with a textured look and feel to it, for an elevated finish. Its still got all the sweat-wicking, heat-battling benefits that you know and rely upon from Under Armour.",
@@ -905,6 +955,7 @@
     "pk": 83,
     "fields": {
         "price": 34.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "UNDER ARMOUR TECH 2.0 1/2 ZIP LONG SLEEVE",
         "product_description": "UA Tech™ is the original go-to training gear that is guaranteed to be loose, light, and it keeps you cool. It's everything you will need.",
@@ -916,6 +967,7 @@
     "pk": 84,
     "fields": {
         "price": 25.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "UNDER ARMOUR TECH SHORT SLEEVE TEE",
         "product_description": "Push yourself harder in this UA Tech™ t-shirt that is made with fabric that is quick-drying, ultra-soft and has a more natural feel. This material wicks sweat and dries really fast along with anti-odour technology prevents the growth of odour-causing microbes.",
@@ -927,6 +979,7 @@
     "pk": 85,
     "fields": {
         "price": 44.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "UNDER ARMOUR WOMENS RIVAL FLEECE FULL-ZIP HOODIE",
         "product_description": "Get ultra-comfy, in this lightweight full-zip cotton-blend fleece. Great for wearing to and from the gym with its soft inner layers to keep you warm and comfortable.",
@@ -938,6 +991,7 @@
     "pk": 86,
     "fields": {
         "price": 29.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "BXF KIDS HOODIE",
         "product_description": "Stay warm on those cooler nights in this BXF Kids Hoodie. Features a handy simple kangaroo pocket along with rib cuff and hem for comfort. It has cosy soft brushed reverse. Comes with the BXF logo left breast, right arm and at the top of the back.",
@@ -949,6 +1003,7 @@
     "pk": 87,
     "fields": {
         "price": 14.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "BXF SPECTER VEST",
         "product_description": "Perfect for training or for those warmer rest days. The BXF men's tank top is made from 100% organic cotton and has a classic style is so comfortable to wear due to the soft-hand feel.",
@@ -960,6 +1015,7 @@
     "pk": 88,
     "fields": {
         "price": 24.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "BXF WOMENS COLLEGE HOODIE",
         "product_description": "With its feminine fit this hoodie is ideal for a classic casual look that you can throw on anytime.",
@@ -971,6 +1027,7 @@
     "pk": 89,
     "fields": {
         "price": 22.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "BXF KIDS BASEBALL HOODIE",
         "product_description": "Get a little bit of American inspired style in this BXF Kids Baseball Hoodie. It features contrast sleeves and hood and a handy kangaroo pouch pocket. Also features the BXF logo on the left chest and also on the right cuff.",
@@ -982,6 +1039,7 @@
     "pk": 90,
     "fields": {
         "price": 19.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "BXF TRAINING SHORTS",
         "product_description": "An essential for your workouts these BXF training shorts are lightweight, flexible and breathable ensuring that you keep cool and comfortable.They are mid length with a comfortable elasticated waist that has a drawcord waistband. Features the BXF logo on the back of the leg,",
@@ -993,6 +1051,7 @@
     "pk": 91,
     "fields": {
         "price": 19.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "BXF RHINO KIDS SHORTS",
         "product_description": "This BXF short provides maximum freedom of movement for a comfortable fit during sport activities. The two-in-one design features an elasticated waist and the BXF logo completes the look.",
@@ -1004,6 +1063,7 @@
     "pk": 92,
     "fields": {
         "price": 34.99,
+        "gender": "Women",
         "sku": "6814201",
         "name": "BXF GIRLIE COOL CONTRAST ZOODIE",
         "product_description": "Ideal for throwing on to and from the gym on those chilly nights, this cool sports zoodie combines wicking performance with lightly brushed fabric making it soft on the body. The adjustable attached hood featuring drawcords protects from the elements while the raglan sleeves and thumb holes offer great range of motion. Features the BXF logo left breast, right cuff and on the bottom of back.",
@@ -1015,6 +1075,7 @@
     "pk": 93,
     "fields": {
         "price": 79.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS TECH FALL 2.0 BOOTS",
         "product_description": "Combining Adidas's top tooling with a mesh upper that has been reinforced from the inside these Tech Fall 2.0 boots from Adidas are a must to have. They have all the features you have come to expect flexibility, breathability, grip and support, these boots are blended on a high level. The knitted mesh uppers provide breathability, lightweight and strong support in all areas.",
@@ -1037,6 +1098,7 @@
     "pk": 95,
     "fields": {
         "price": 36.99,
+        "gender": "Kids",
         "sku": "6814201",
         "name": "ADIDAS KIDS BOXING GLOVES AND FOCUS MITTS SET",
         "product_description": "This boxing set is ideal for beginner pad sessions to get the bug for boxing. The set includes 1 pair of boxing gloves and 1 pair of focus mitts so everything you need to get going",
@@ -1048,6 +1110,7 @@
     "pk": 96,
     "fields": {
         "price": 25.00,
+        "gender": "men",
         "sku": "6814201",
         "name": "BXF MOVER JOGGERS",
         "product_description": "Understated and comfortable these BXF jogger pants is cut in premium 300gsm 85% organic cotton, 15% recycled polyester brushed fabric. With adjustable drawcord on the waistband, a patch pocket on the back and the BXF printed logo left leg, you’re covered on your training day to your rest day.",
@@ -1224,6 +1287,7 @@
     "pk": 112,
     "fields": {
         "price": 39.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS GOLD PRINT BOXING HOODY",
         "product_description": "Perfect for throwing on after a workout or on those well earned non-training days. Comfortable and warm, all you'd expect from Adidas.",
@@ -1257,6 +1321,7 @@
     "pk": 115,
     "fields": {
         "price": 179.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS ADISPEED 501 BOXING GLOVES - LIMITED EDITION",
         "product_description": "Check out the limited edition colourways in these Adidas Adispeed Boxing Gloves. Designed in the USA they are crafted from high-quality genuine leather with one piece injection mould for ideal shock absorption and impact protection. For supreme comfort, they feature a soft inner lining and the rigid strap provides a firm and secure closure.",
@@ -1268,6 +1333,7 @@
     "pk": 116,
     "fields": {
         "price": 199.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS ADISPEED 501 HOOK & LOOP BOXING GLOVES METALLIC",
         "product_description": "Bring on your shine with these premium top of the range lace up boxing gloves from Adidas. Crafted from high-quality genuine leather that feature various layers of foam that is ideal shock absorption and impact protection. For supreme comfort, they feature a soft inner lining and the rigid strap ensures a secure fit.",
@@ -1290,6 +1356,7 @@
     "pk": 118,
     "fields": {
         "price": 27.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "ADIDAS THAI BOXING SHORTS",
         "product_description": "These Adidas Thai Boxing Shorts have an authentic Muay Thai cut with Thai prints on both sides. They are lightweight to make them really comfortable whilst fighting. The large elasticated waistband with a cord tightening has a contrast 3 stripes design and the Adidas logo on the waistband.",
@@ -1301,6 +1368,7 @@
     "pk": 119,
     "fields": {
         "price": 24.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "BOXFIT ANTHEM HOODIE",
         "product_description": "You won't want to take this great hoodie off. The Boxfit men's Anthem hoodie is a luxuriously thick and boasts a soft-feel finish inside and out for extreme comfort. Every detail on this hoodie has been meticulously thought out to create a high impact top. Great for throwing on for training or for those chill out rest days.",
@@ -1312,6 +1380,7 @@
     "pk": 120,
     "fields": {
         "price": 39.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "Adidas Hybrid 100 16oz Boxing Gloves - Black",
         "product_description": "An outstanding multi-purpose glove that is excellent for pad work, bag work, sparring and fitness training. This really is the ultimate all-rounder. With inside lining for comfort, two piece injection mould foam padding and two-tone rigid elasticated strap that can be secured solidly to provide extra support. Designed with an ergonomic shape for a powerful and fast punch.",
@@ -1323,6 +1392,7 @@
     "pk": 122,
     "fields": {
         "price": 15.99,
+        "gender": "men",
         "sku": "6814201",
         "name": "BOXFIT TECHNICAL POLO SHIRT",
         "product_description": "This Boxfit UK Technical Polo Shirt is produced using high quality material and advanced manufacturing methods which is designed to endure the rigours of regular wear and washing. Careful attention has been taken in the garment design, fit and functionality and this polo shirt has an active fit. It is light weight and made from polyester micro pinhole material and flat lock seam with silver coverstitch. Its quick dry and easy care as well.",
