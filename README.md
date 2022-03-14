@@ -81,9 +81,8 @@ I achieve this by:
 
 - As a **shopper**, I want to be able to view a list of products so that I can choose some items to purchase.
 - As a **shopper**, I want to be able to filter products that I am interested in without searching through all the products.
-- As a **shopper**, I want to be able to select individual products to see more detailed information and add the item to my shopping cart.
-- As a **shopper**, I want to be able to see any product special offers, new arrivals and available deals, taking advantage of any reduced prices shown.
-- As a **shopper**, I want to be able to see items I have placed in my shopping cart easily so that I can keep track oof what I am buying
+- As a **shopper**, I want to be able to select individual products to see more detailed information and add the item to my shopping cart..
+- As a **shopper**, I want to be able to see items I have placed in my shopping cart easily so that I can keep track of what I am buying
 -As a **shopper**, I want to be able to see breadcrumb navigation links to see where I am on the site easily.
 
 #### Registration and User Accounts 
@@ -203,8 +202,6 @@ I achieve this by:
   - Used to create the jumbotron radial gradient
 - [Django Secret Key Generator](https://miniwebtool.com/django-secret-key-generator/)
   - Used to create the Django environment variables secret keys
-- [dbdiagrams.io](https://dbdiagram.io/home)
-  - Used to create the database entity-relationship diagram.
 
 
 [Back to contents](#contents)
