@@ -120,8 +120,11 @@ I achieve this by:
 
 # Design Choices
 
+L
 
 ### **Colours**
+
+[Color Palette](media/color-palette.png)
 
 
 ### **Wireframes**
@@ -202,10 +205,8 @@ I achieve this by:
   - Online JSON Formatter, validator and conversion tool
 - [Django Secret Key Generator](https://miniwebtool.com/django-secret-key-generator/)
   - The Django Secret Key Generator is used to generate a new SECRET_KEY for environment variables.
-- [Adobe Lightroom](https://www.adobe.com/uk/products/photoshop-lightroom.html) 
-  - For batch photo resizing and exporting for web
 - [Adobe Spark](https://spark.adobe.com/sp)
-  - Used to create the Sportswear Online logo
+  - Used to create the We-Glove-Boxing Online logo
 - [favicon.io](https://favicon.io/)
   - Used to create the website favicons
 - [CSS Gradient Tool](https://cssgradient.io/)
