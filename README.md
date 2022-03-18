@@ -126,6 +126,16 @@ I achieve this by:
 
 ### **Wireframes**
 
+- [Home Page](wireframes/home.png)
+- [User Registration](wireframes/user-registration.png)
+- [User Log In](wireframes/user-login.png)
+- [My Profile](wireframes/my-profile.png)
+- [Products](wireframes/products.png)
+- [Product Page](wireframes/product-page.png)
+- [Product Management - Add a Product](wireframes/product-management.png)
+- [Shopping Cart](wireframes/shopping-cart.png)
+- [Checkout](wireframes/checkout.png)
+- [Checkout Success](wireframes/checkout-success.png)
 
 ---
 
