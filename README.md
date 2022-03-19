@@ -120,9 +120,18 @@ I achieve this by:
 
 # Design Choices
 
-L
 
 ### **Colours**
+
+**Main Site**
+I've chosen a simple Black & white colour for the main site to keep the site simple and plain. I didn't want to be too fancy with the colour theme so went with a black and white color theme.
+
+**Logo**
+I designed the logo with Adobe and added a boxing glove. I decided to make it red as its an authentic colour for boing gloves.
+
+#000000 - Black
+#FFFFFFF - White
+##C62020 - Red
 
 [Color Palette](media/color-palette.png)
 
@@ -286,14 +295,24 @@ The following section describes the site design and page layouts to demonstrate 
    - If an unauthenticted user tries to access a restricted page they will be redirected
    - If an authenticted user without admin privilege tried to go to an admin-only page via a URL, they will be redirected to the home page and receive a notification
 
-
 # Bugs 
 
 All new bugs and issues are tracked within the GitHub repository [Issues section](https://github.com/IzzySoprano/We-Glove-Boxing/Issues) .
 
-
 # Testing
 
+## Automated Testing
+
+### Test Driven Development (TDD)
+
+[Django unittest documentation](https://docs.djangoproject.com/en/3.2/topics/testing/overview/)
+
+Using Django's standard unit test library module `unittest`, a class based approach was used to build tests for each app's functionality.
+
+For each app in the project, where applicable, the following files were tested:
+  - `views.py` tested by `test_views.py`
+  - `models.py` tested by `test_models.py`
+  - `forms.py` tested by `test_forms.py`
 
 # Deployment
 
@@ -563,5 +582,8 @@ If you need to save images to your S3 bucket, you will need to do the following;
 
 [Back to Contents](#table-of-contents)
 
-## Credits
+## **Credits**
 
+- [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) Course material - in particular the Boutique Ado Django mini project
+- [Simon Vardy](https://github.com/simonjvardy) for code snippets and README.md content.
+- [Code Institute](Tutor Support Team)
