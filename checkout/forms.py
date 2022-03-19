@@ -1,4 +1,5 @@
-from django import forms
+# Code adapted from the CI Boutique Ado mini project
+
 from .models import Order
 
 

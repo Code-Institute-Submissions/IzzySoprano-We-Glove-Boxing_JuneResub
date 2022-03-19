@@ -1,4 +1,5 @@
-from decimal import Decimal
+# Code adapted from the CI Boutique Ado mini project
+
 from django.conf import settings
 from django.shortcuts import get_object_or_404
 from products.models import Product

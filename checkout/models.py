@@ -1,3 +1,5 @@
+# Code adapted from the CI Boutique Ado mini project
+
 import uuid
 
 from django.db import models

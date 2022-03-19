@@ -1,3 +1,5 @@
+# Code adapted from the CI Boutique Ado mini project
+
 from django import forms
 from .models import UserProfile
 

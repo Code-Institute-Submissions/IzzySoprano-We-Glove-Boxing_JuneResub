@@ -1,3 +1,5 @@
+# Code adapted from the CI Boutique Ado mini project
+
 from django.db import models
 
 # Create your models here.
