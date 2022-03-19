@@ -120,7 +120,6 @@ I achieve this by:
 
 # Design Choices
 
-
 ### **Colours**
 
 **Main Site**
@@ -587,3 +586,4 @@ If you need to save images to your S3 bucket, you will need to do the following;
 - [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) Course material - in particular the Boutique Ado Django mini project
 - [Simon Vardy](https://github.com/simonjvardy) for code snippets and README.md content.
 - [Code Institute](Tutor Support Team)
+- [BoxFit](https://www.boxfituk.com/) - for the images 
