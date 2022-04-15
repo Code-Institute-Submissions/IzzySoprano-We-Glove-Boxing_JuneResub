@@ -108,7 +108,6 @@ I achieve this by:
 - As a **shopper**, I want to be able to view the items in my shopping cart waiting to be purchased, seeing the sub-total, delivery costs and grand total amounts.
 - As a **shopper**, I want to be able to easily update the items in the shopping cart by changing the quantities of products or remove them from the cart.
 - As a **shopper**, I want to be able to checkout securely where I can enter my delivery and credit card payment details with confidence.
-- As a **shopper**, I want to be able to view an order confirmation page as well as receive and email order confirmation once the transaction has succeeded.
 
 #### Admin and Store Management
 
