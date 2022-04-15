@@ -4,6 +4,7 @@ from django.db import models
 
 # Create your models here.
 
+
 class Gender(models.Model):
     """
     Model Gender allows the grouping of product
@@ -20,6 +21,7 @@ class Gender(models.Model):
     def gender_display_name(self):
         return self.display_name
 
+
 class Category(models.Model):
     "Creates category in database"
     name = models.CharField(max_length=254)
@@ -33,23 +35,28 @@ class Category(models.Model):
 
     def get_friendly_name(self):
         return self.friendly_name
-    
+
+
 class Product(models.Model):
     "Creates products in database"
 
-    category = models.ForeignKey('Category', null=True, blank=True, on_delete=models.SET_NULL)
-    subcategory = models.ForeignKey('SubCategory', null=True, blank=True, on_delete=models.SET_NULL)
+    category = models.ForeignKey(
+        'Category', null=True, blank=True, on_delete=models.SET_NULL)
+    subcategory = models.ForeignKey(
+        'SubCategory', null=True, blank=True, on_delete=models.SET_NULL)
     price = models.DecimalField(max_digits=6, decimal_places=2)
-    sku = models.CharField(max_length=254, null=True, blank=True) 
+    sku = models.CharField(max_length=254, null=True, blank=True)
     name = models.CharField(max_length=254)
-    rating = models.DecimalField(max_digits=6, decimal_places=2, null=True, blank=True)
+    rating = models.DecimalField(
+        max_digits=6, decimal_places=2, null=True, blank=True)
     product_description = models.TextField()
     image = models.ImageField(blank=True, null=True)
-    gender = models.ForeignKey('Gender', null=True, blank=True, on_delete=models.SET_NULL)
+    gender = models.ForeignKey(
+        'Gender', null=True, blank=True, on_delete=models.SET_NULL)
 
-    
     def __str__(self):
         return self.name
+
 
 class SubCategory(models.Model):
     "Model SubCategory allows the grouping of products for easier searches by sub-category of product"
