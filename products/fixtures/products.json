@@ -1,1402 +1,1645 @@
-[{
+[
+  {
     "model": "products.product",
     "pk": 1,
     "fields": {
-        "price": 139.99,
-        "sku": "6814201",
-        "name": "EVERLAST PRO 1910 HEADHUNTER BAG",
-        "product_description": "The look and feel of a punching bag with the functionality of a slip ball, the Everlast Pro 1910 Head Hunter Bag combines two traditional workouts into one convenient high-quality package.",
-        "image": "1910_Headhunter_Bag_Black_White__24438.1633622610.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 139.99,
+      "sku": "6814201",
+      "name": "EVERLAST PRO 1910 HEADHUNTER BAG",
+      "product_description": "The look and feel of a punching bag with the functionality of a slip ball, the Everlast Pro 1910 Head Hunter Bag combines two traditional workouts into one convenient high-quality package.",
+      "image": "1910_Headhunter_Bag_Black_White__24438.1633622610.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 2,
     "fields": {
-        "price": 49.99,
-        "sku": "6814201",
-        "name": "ADIDAS SPEED 50 BOXING GLOVE",
-        "product_description": "Designed to optimse speed and performance these new style for the Adidas Speed 50 Boxing Gloves that have been made from 100% resistant PU material along with a lining for added comfort.",
-        "image": "12389.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 49.99,
+      "sku": "6814201",
+      "name": "ADIDAS SPEED 50 BOXING GLOVE",
+      "product_description": "Designed to optimse speed and performance these new style for the Adidas Speed 50 Boxing Gloves that have been made from 100% resistant PU material along with a lining for added comfort.",
+      "image": "12389.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 3,
     "fields": {
-        "price": 5.50,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "Pro Power Boxing Hand Wraps",
-        "product_description": "These hand wraps are ideal for MMA, Boxing, Muay Thai and other combat sports.",
-        "image": "901274.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 5.5,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "Pro Power Boxing Hand Wraps",
+      "product_description": "These hand wraps are ideal for MMA, Boxing, Muay Thai and other combat sports.",
+      "image": "901274.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 4,
     "fields": {
-        "price": 49.99,
-        "sku": "6814201",
-        "name": "Adidas Performer Leather Boxing Gloves - Black and White",
-        "product_description": "An excellent leather boxing glove that will be the perfect vehicle to help you take you boxing skills to the next level. With an 8cm wide velcro fastening strap which adds support and improves the fit of the glove along with IMF foam padding and integrated gel for added hand protection and safety.",
-        "image": "0984098.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 49.99,
+      "sku": "6814201",
+      "name": "Adidas Performer Leather Boxing Gloves - Black and White",
+      "product_description": "An excellent leather boxing glove that will be the perfect vehicle to help you take you boxing skills to the next level. With an 8cm wide velcro fastening strap which adds support and improves the fit of the glove along with IMF foam padding and integrated gel for added hand protection and safety.",
+      "image": "0984098.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 5,
     "fields": {
-        "price": 5.99,
-        "sku": "6814201",
-        "name": "RUNNERS FIST BOTTLE",
-        "product_description": "Runners Fist drinking Bottles are especially designed for joggers with an easy to grip design",
-        "image": "3013696__06181.1604697998.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 5.99,
+      "sku": "6814201",
+      "name": "RUNNERS FIST BOTTLE",
+      "product_description": "Runners Fist drinking Bottles are especially designed for joggers with an easy to grip design",
+      "image": "3013696__06181.1604697998.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 6,
     "fields": {
-        "price": 189.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ZAMMIR STYLE CUSTOM SHORT",
-        "product_description": "Designed exclusively for one of We Glpve Boxing's Amateur boxers Zammir Khan.",
-        "image": "3013984_8__78791.1608139388.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 189.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ZAMMIR STYLE CUSTOM SHORT",
+      "product_description": "Designed exclusively for one of We Glpve Boxing's Amateur boxers Zammir Khan.",
+      "image": "3013984_8__78791.1608139388.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 7,
     "fields": {
-        "price": 29.99,
-        "sku": "6814201",
-        "name": "ADIDAS WTF DIPPED FOAM HEADGUARD",
-        "product_description": "Adidas Dipped Foam Head Guard is worn by the GB Taekwondo Team. Featuring a fast closing with hook and loop strap. This headguard is made from soft easy EVA material assures an easy adjusting to head shape.",
-        "image": "3015735__29446.1604724490.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 29.99,
+      "sku": "6814201",
+      "name": "ADIDAS WTF DIPPED FOAM HEADGUARD",
+      "product_description": "Adidas Dipped Foam Head Guard is worn by the GB Taekwondo Team. Featuring a fast closing with hook and loop strap. This headguard is made from soft easy EVA material assures an easy adjusting to head shape.",
+      "image": "3015735__29446.1604724490.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 8,
     "fields": {
-        "price": 21.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "KRONK DETROIT YELLOW T-SHIRT",
-        "product_description": "Men's 'KRONK DETROIT' printed Tee shirt with suede effect chest print. Kronk gym was founded in Detroit in the neighbourhood recreational centre, 1969. The legend lives on today although the gym has been relocated across town.",
-        "image": "21004829_1__68917.1604705861.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 21.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "KRONK DETROIT YELLOW T-SHIRT",
+      "product_description": "Men's 'KRONK DETROIT' printed Tee shirt with suede effect chest print. Kronk gym was founded in Detroit in the neighbourhood recreational centre, 1969. The legend lives on today although the gym has been relocated across town.",
+      "image": "21004829_1__68917.1604705861.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 9,
     "fields": {
-        "price": 21.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "KRONK BOXING CLASSIC T-SHIRT",
-        "product_description": "Men's KRONK Boxing Classic printed Tee shirt in collegiate graphic design. Kronk gym was founded in Detroit in the neighbourhood recreational centre, 1969. The legend lives on today although the gym has been relocated across town.",
-        "image": "3018680__67330.1604707255.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 21.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "KRONK BOXING CLASSIC T-SHIRT",
+      "product_description": "Men's KRONK Boxing Classic printed Tee shirt in collegiate graphic design. Kronk gym was founded in Detroit in the neighbourhood recreational centre, 1969. The legend lives on today although the gym has been relocated across town.",
+      "image": "3018680__67330.1604707255.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 10,
     "fields": {
-        "price": 39.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "ADIDAS NEW HAVOC JUNIOR RING BOOT",
-        "product_description": "The Adidas Havoc Junior Ring Boot features three pivot points on a one-piece rubber outsole which will help to deliver consistent grip for fast attacks and swift takedowns. They have a durable heel and toe and a secure lace strap thats keeps you performing at your best along with a mix of leather and synthetic suede upper for durability and ultimate breathability. These Adidas Havoc Wrestling Boots are a lightweight, durable boot with a traditional design but still giving you a superior performance.",
-        "image": "3019210_3__29004.1623841048.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "ADIDAS NEW HAVOC JUNIOR RING BOOT",
+      "product_description": "The Adidas Havoc Junior Ring Boot features three pivot points on a one-piece rubber outsole which will help to deliver consistent grip for fast attacks and swift takedowns. They have a durable heel and toe and a secure lace strap thats keeps you performing at your best along with a mix of leather and synthetic suede upper for durability and ultimate breathability. These Adidas Havoc Wrestling Boots are a lightweight, durable boot with a traditional design but still giving you a superior performance.",
+      "image": "3019210_3__29004.1623841048.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 11,
     "fields": {
-        "price": 5.99,
-        "sku": "6814201",
-        "name": "BOXFIT UK STRAW WATER BOTTLE",
-        "product_description": "The brand new Boxfit UK Pro Style water bottle is an excellent individual sport bottle for all your training needs. It features our large logo in white and has a clear see-through indicator to help you closely monitor your fluid intake. With a straw spout it is ideal for any boxing training sessions or gym workouts.",
-        "image": "3020040__21460.1608145086.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 5.99,
+      "sku": "6814201",
+      "name": "BOXFIT UK STRAW WATER BOTTLE",
+      "product_description": "The brand new Boxfit UK Pro Style water bottle is an excellent individual sport bottle for all your training needs. It features our large logo in white and has a clear see-through indicator to help you closely monitor your fluid intake. With a straw spout it is ideal for any boxing training sessions or gym workouts.",
+      "image": "3020040__21460.1608145086.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 12,
     "fields": {
-        "price": 19.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS TECHFIT BASE TEE",
-        "product_description": "Adidas Techfit Base Tee",
-        "image": "3020852__89391.1608116547.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 19.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS TECHFIT BASE TEE",
+      "product_description": "Adidas Techfit Base Tee",
+      "image": "3020852__89391.1608116547.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 13,
     "fields": {
-        "price": 21.99, 
-        "gender": "men",
-        "sku": "6814201",
-        "name": "KRONK ONE COLOUR GLOVES SLIM FIT T-SHIRT",
-        "product_description": "Men's 'KRONK GLOVES' One colour printed Slim Fit Tee shirt with chest print and sleeve tab. Bold one colour interpretation of the Iconic Kronk Gloves logo.  Slightly fitted fashion/sports fit which will accentuate your body shape",
-        "image": "3021540__22588.1604762078.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 21.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "KRONK ONE COLOUR GLOVES SLIM FIT T-SHIRT",
+      "product_description": "Men's 'KRONK GLOVES' One colour printed Slim Fit Tee shirt with chest print and sleeve tab. Bold one colour interpretation of the Iconic Kronk Gloves logo.  Slightly fitted fashion/sports fit which will accentuate your body shape",
+      "image": "3021540__22588.1604762078.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 14,
     "fields": {
-        "price": 33.00, 
-        "sku": "6814201",
-        "name": "Adidas Speed 50 10oz Boxing Gloves - White",
-        "product_description": "These attractive boxing gloves are ideal for use on pads, bag work and for fitness training. They have been designed to optimise both speed and performance, making them the perfect gloves to start your boxing journey with.",
-        "image": "8973987.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 33.0,
+      "sku": "6814201",
+      "name": "Adidas Speed 50 10oz Boxing Gloves - White",
+      "product_description": "These attractive boxing gloves are ideal for use on pads, bag work and for fitness training. They have been designed to optimise both speed and performance, making them the perfect gloves to start your boxing journey with.",
+      "image": "8973987.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 15,
     "fields": {
-        "price": 5.99,
-        "sku": "6814201",
-        "name": "ADIDAS DOUBLE MOUTHGUARD",
-        "product_description": "Adidas Double Clear Mouthguard comes complete with its own case with Adidas logo on the outside. ",
-        "image": "21002121__76216.1608137220.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 5.99,
+      "sku": "6814201",
+      "name": "ADIDAS DOUBLE MOUTHGUARD",
+      "product_description": "Adidas Double Clear Mouthguard comes complete with its own case with Adidas logo on the outside. ",
+      "image": "21002121__76216.1608137220.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 16,
     "fields": {
-        "price": 39.99,
-        "sku": "6814201",
-        "name": "ADIDAS GROIN GUARD",
-        "product_description": "The Adidas Groin Guard is created using the new PU3G Innovation, which is a material that looks and feels like leather and absorbs perspiration whilst remaining subtle, with PU lining.  It features a reinforced plastic cup with high density aero foam padding with gel lining and secure elastic waistband. Small size fits most 9-11 year olds very well.",
-        "image": "21002254__33388.1604704679.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "sku": "6814201",
+      "name": "ADIDAS GROIN GUARD",
+      "product_description": "The Adidas Groin Guard is created using the new PU3G Innovation, which is a material that looks and feels like leather and absorbs perspiration whilst remaining subtle, with PU lining.  It features a reinforced plastic cup with high density aero foam padding with gel lining and secure elastic waistband. Small size fits most 9-11 year olds very well.",
+      "image": "21002254__33388.1604704679.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 17,
     "fields": {
-        "price": 44.99,
-        "sku": "6814201",
-        "name": "PRO BOX CLUB ESSENTIALS LEATHER HEADGUARD: BLACK",
-        "product_description": "This Pro-Box Club Essential Leather headguard is a great modern leather contest style headguard and a great buy. It is padded with lightweight air cushion and features a safety foam filling. With an anti-slip suede leather lining as well. Double hook and loop back straps for a head contour closing, giving a great fit.",
-        "image": "21002859_1__51792.1604704612.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 44.99,
+      "sku": "6814201",
+      "name": "PRO BOX CLUB ESSENTIALS LEATHER HEADGUARD: BLACK",
+      "product_description": "This Pro-Box Club Essential Leather headguard is a great modern leather contest style headguard and a great buy. It is padded with lightweight air cushion and features a safety foam filling. With an anti-slip suede leather lining as well. Double hook and loop back straps for a head contour closing, giving a great fit.",
+      "image": "21002859_1__51792.1604704612.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 18,
     "fields": {
-        "price": 39.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "KRONK GLOVES CREW SWEATSHIRT",
-        "product_description": "Kronk Gloves Crew Neck Sweatshirt. Crew neck sweatshirt with the Kronk and gloves logo printed to the front. This sweat features a taped neck with ribbed collar, cuff and hem including Spandex. Soft cotton faced fabric for a stylish fit.  Anti pill with a soft feel.",
-        "image": "21004807__00823.1604706319.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "KRONK GLOVES CREW SWEATSHIRT",
+      "product_description": "Kronk Gloves Crew Neck Sweatshirt. Crew neck sweatshirt with the Kronk and gloves logo printed to the front. This sweat features a taped neck with ribbed collar, cuff and hem including Spandex. Soft cotton faced fabric for a stylish fit.  Anti pill with a soft feel.",
+      "image": "21004807__00823.1604706319.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 19,
     "fields": {
-        "price": 49.99,
-        "sku": "6814201",
-        "name": "ADIDAS SWIVEL PUSH-UP BARS",
-        "product_description": "These Adidas Swivel push-up bars help to build upper body and core strength. With a unique swivel action and its smooth bearing discs these push-up bars can enhance and add variety into any workout. The swivel action enables you to lock out your wrist and rotate as you lower to the push-up position which will enhance your workout on your chest, shoulder and back muscles meaning better results in less time.  The natural movement will also reduce the strain on the wrist and elbow joints, alternatively the bars can be locked into position for the traditional style static push-up.",
-        "image": "3015825__58212.1608144008.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 49.99,
+      "sku": "6814201",
+      "name": "ADIDAS SWIVEL PUSH-UP BARS",
+      "product_description": "These Adidas Swivel push-up bars help to build upper body and core strength. With a unique swivel action and its smooth bearing discs these push-up bars can enhance and add variety into any workout. The swivel action enables you to lock out your wrist and rotate as you lower to the push-up position which will enhance your workout on your chest, shoulder and back muscles meaning better results in less time.  The natural movement will also reduce the strain on the wrist and elbow joints, alternatively the bars can be locked into position for the traditional style static push-up.",
+      "image": "3015825__58212.1608144008.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 20,
     "fields": {
-        "price": 21.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "KRONK TRAINING CAMP TEE",
-        "product_description": "Men's 'KRONK TRAINING TEE' with chest print. This is  a great looking t-shirt to wear in the gym.",
-        "image": "21004851_1__91896.1604706293.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 21.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "KRONK TRAINING CAMP TEE",
+      "product_description": "Men's 'KRONK TRAINING TEE' with chest print. This is  a great looking t-shirt to wear in the gym.",
+      "image": "21004851_1__91896.1604706293.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 21,
     "fields": {
-        "price": 62.99,
-        "sku": "6814201",
-        "name": "ADIDAS ADIZERO SPEED HEADGUARD",
-        "product_description": "Keep safe in this uniquely designed headguard. Its the lightest in its class and is ergonomically designed. It is also machine washable so you can keep it fresh after those tough training sessions.",
-        "image": "21007265__59663.1604715865.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 62.99,
+      "sku": "6814201",
+      "name": "ADIDAS ADIZERO SPEED HEADGUARD",
+      "product_description": "Keep safe in this uniquely designed headguard. Its the lightest in its class and is ergonomically designed. It is also machine washable so you can keep it fresh after those tough training sessions.",
+      "image": "21007265__59663.1604715865.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 22,
     "fields": {
-        "price": 23.99,
-        "sku": "6814201",
-        "name": "ESCAPE VINYL KETTLEBELLS",
-        "product_description": "These Escape Vinyl Kettlebells are made from a cast iron construction with a vinyl dipped covering meaning they will last longer and studio and gym floors are protected. With eye catching colours to recognise the different weights easily.",
-        "image": "21007737_1__60025.1604698722.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 23.99,
+      "sku": "6814201",
+      "name": "ESCAPE VINYL KETTLEBELLS",
+      "product_description": "These Escape Vinyl Kettlebells are made from a cast iron construction with a vinyl dipped covering meaning they will last longer and studio and gym floors are protected. With eye catching colours to recognise the different weights easily.",
+      "image": "21007737_1__60025.1604698722.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 23,
     "fields": {
-        "price": 23.99,
-        "sku": "6814201",
-        "name": "ESCAPE STUDIO HANDWEIGHTS",
-        "product_description": "These heavy-duty vinyl Studio Handweights from Escape feature a slightly reduced grip space that makes them ideal for users with smaller hands. They are colour-coded for easy recognition and have large clear weight numbers on the end.",
-        "image": "21007893__43905.1604698795.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 23.99,
+      "sku": "6814201",
+      "name": "ESCAPE STUDIO HANDWEIGHTS",
+      "product_description": "These heavy-duty vinyl Studio Handweights from Escape feature a slightly reduced grip space that makes them ideal for users with smaller hands. They are colour-coded for easy recognition and have large clear weight numbers on the end.",
+      "image": "21007893__43905.1604698795.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 24,
     "fields": {
-        "price": 31.99,
-        "sku": "6814201",
-        "name": "4KG NEOPRENE DUMBELLS - PAIR",
-        "product_description": "These pair of Neoprene coated Dumbbells are great for aerobic and fitness training. Flat bottoms prevent weights from rolling away in the gym. Size: 2 x 4Kg Dumbbells - Boxed in a pair",
-        "image": "21009397__39006.1608139953.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 31.99,
+      "sku": "6814201",
+      "name": "4KG NEOPRENE DUMBELLS - PAIR",
+      "product_description": "These pair of Neoprene coated Dumbbells are great for aerobic and fitness training. Flat bottoms prevent weights from rolling away in the gym. Size: 2 x 4Kg Dumbbells - Boxed in a pair",
+      "image": "21009397__39006.1608139953.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 25,
     "fields": {
-        "price": 15.99,
-        "sku": "6814201",
-        "name": "FITNESS MAD WRIST & ANKLE WEIGHTS",
-        "product_description": "Add a little weight to your workout without resriction, the Fitness Mad Ankle/Wrist weights have a double fastening system to ensure they are a secure fit. There are no buckles to jab you and the weight is evenly distributed for maximum comfort. A great addition to your workout.",
-        "image": "21009480_1__97839.1604698874.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 15.99,
+      "sku": "6814201",
+      "name": "FITNESS MAD WRIST & ANKLE WEIGHTS",
+      "product_description": "Add a little weight to your workout without resriction, the Fitness Mad Ankle/Wrist weights have a double fastening system to ensure they are a secure fit. There are no buckles to jab you and the weight is evenly distributed for maximum comfort. A great addition to your workout.",
+      "image": "21009480_1__97839.1604698874.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 26,
     "fields": {
-        "price": 42.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS BASE PUNCH II BOXING SET",
-        "product_description": "The Adidas Base Punch II Boxing Set is lightweight and has superior moisture management. The vest has been cut especially for boxing giving you the movement you need when in the ring. This set is ideal for amateur contest or competitions.",
-        "image": "21011068__03161.1604915707.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 42.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS BASE PUNCH II BOXING SET",
+      "product_description": "The Adidas Base Punch II Boxing Set is lightweight and has superior moisture management. The vest has been cut especially for boxing giving you the movement you need when in the ring. This set is ideal for amateur contest or competitions.",
+      "image": "21011068__03161.1604915707.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 27,
     "fields": {
-        "price": 22.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS BASE PUNCH II BOXING VEST",
-        "product_description": "The Adidas Base Punch II Boxing Vest is lightweight and has superior moisture management. It has been cut especially for boxing giving you the movement you need when in the ring. This vest is ideal for amateur contest or competition and matching shorts are also available to complete the look.",
-        "image": "21011303__00029.1604708257.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 22.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS BASE PUNCH II BOXING VEST",
+      "product_description": "The Adidas Base Punch II Boxing Vest is lightweight and has superior moisture management. It has been cut especially for boxing giving you the movement you need when in the ring. This vest is ideal for amateur contest or competition and matching shorts are also available to complete the look.",
+      "image": "21011303__00029.1604708257.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 28,
     "fields": {
-        "price": 9.99,
-        "sku": "6814201",
-        "name": "CIMAC COTTON GROIN GUARD",
-        "product_description": "Cimac Cotton Groin Guard with reinforced removable nylon cup edged with soft rubber for comfort.",
-        "image": "21011468__44112.1604703597.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 9.99,
+      "sku": "6814201",
+      "name": "CIMAC COTTON GROIN GUARD",
+      "product_description": "Cimac Cotton Groin Guard with reinforced removable nylon cup edged with soft rubber for comfort.",
+      "image": "21011468__44112.1604703597.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 29,
     "fields": {
-        "price": 4.99,
-        "sku": "6814201",
-        "name": "BBE CLUB 4M HANDWRAPS",
-        "product_description": "Hand wraps provide support for the small joints and bones in the hand, wrist and fingers. When used wearing quality boxing gloves provide optimum support and protection from repeated punches. The high quality cotton hand wraps are 4m long ensuring a good fit. They are machine washable and feature hook and loop cuff strap fixing.",
-        "image": "21012475__59983.1608143887.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 4.99,
+      "sku": "6814201",
+      "name": "BBE CLUB 4M HANDWRAPS",
+      "product_description": "Hand wraps provide support for the small joints and bones in the hand, wrist and fingers. When used wearing quality boxing gloves provide optimum support and protection from repeated punches. The high quality cotton hand wraps are 4m long ensuring a good fit. They are machine washable and feature hook and loop cuff strap fixing.",
+      "image": "21012475__59983.1608143887.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 30,
     "fields": {
-        "price": 39.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "BXF WOMENS MELANGE KNIT FLEECE JACKET",
-        "product_description": "Make sure your wrapped up warm on those cooling night. This melange knit fleece jacket has a soft brushed interior and contrast binding for a comfortable fit that helps trap in warmth. The hooded fleece also has a chin guard and the two open pockets are ideal for putting small items in. Soft-fleece fabric is warm and comfortable. Hood with chin guard for additional coverage. Full-zip through. 100% Polyester. Weight 280gsm",
-        "image": "21016898__19238.1604735157.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "BXF WOMENS MELANGE KNIT FLEECE JACKET",
+      "product_description": "Make sure your wrapped up warm on those cooling night. This melange knit fleece jacket has a soft brushed interior and contrast binding for a comfortable fit that helps trap in warmth. The hooded fleece also has a chin guard and the two open pockets are ideal for putting small items in. Soft-fleece fabric is warm and comfortable. Hood with chin guard for additional coverage. Full-zip through. 100% Polyester. Weight 280gsm",
+      "image": "21016898__19238.1604735157.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 31,
     "fields": {
-        "price": 74.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS MAT WIZARD 4 RING BOOTS",
-        "product_description": "The next generation, the Adidas Mat Wizard 4 Boot is wide fit that provides increased support. It features single-layer give you durablity and ensures breathability allowing your feet to keep cool. Internal, die-cut midsole assists perfect ‘attack stance’ essential for combat sports. Strong, lightweight underlays for support around the midfoot and ankle. These boots are based on a wrestling boot design but adopted as a boxing boot by many boxers.",
-        "image": "21020324_2__18890.1608116160.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 74.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS MAT WIZARD 4 RING BOOTS",
+      "product_description": "The next generation, the Adidas Mat Wizard 4 Boot is wide fit that provides increased support. It features single-layer give you durablity and ensures breathability allowing your feet to keep cool. Internal, die-cut midsole assists perfect ‘attack stance’ essential for combat sports. Strong, lightweight underlays for support around the midfoot and ankle. These boots are based on a wrestling boot design but adopted as a boxing boot by many boxers.",
+      "image": "21020324_2__18890.1608116160.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 32,
     "fields": {
-        "price": 39.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "KRONK DETROIT CREW SWEATSHIRT",
-        "product_description": "Kronk Detroit Crew Neck Sweatshirt.  Crew neck sweatshirt with the Kronk Detroit logo printed to the front. This sweat features a taped neck with ribbed collar, cuff and hem including Spandex. Soft cotton faced fabric for a stylish fit. Anti pill with a soft feel.",
-        "image": "21020357__17760.1604706356.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "KRONK DETROIT CREW SWEATSHIRT",
+      "product_description": "Kronk Detroit Crew Neck Sweatshirt.  Crew neck sweatshirt with the Kronk Detroit logo printed to the front. This sweat features a taped neck with ribbed collar, cuff and hem including Spandex. Soft cotton faced fabric for a stylish fit. Anti pill with a soft feel.",
+      "image": "21020357__17760.1604706356.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 33,
     "fields": {
-        "price": 34.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "KRONK SLEEVELESS ZIP HOODIE GILET",
-        "product_description": "KRONK zip through sleeveless Hoodie with small Kronk Detroit embroidery on chest. Sleeveless hoodie, perfect as an extra layer for training or leisurewear. Stylish fit with a front pouch pockets, double fabric hood, YKK zipper, and flat drawstrings. Arm openings have a self fabric trim.",
-        "image": "21020372__11724.1604745532.jpg"
-    }  
-},
-{
+      "category": "1",
+      "subcategory": "1",
+      "price": 34.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "KRONK SLEEVELESS ZIP HOODIE GILET",
+      "product_description": "KRONK zip through sleeveless Hoodie with small Kronk Detroit embroidery on chest. Sleeveless hoodie, perfect as an extra layer for training or leisurewear. Stylish fit with a front pouch pockets, double fabric hood, YKK zipper, and flat drawstrings. Arm openings have a self fabric trim.",
+      "image": "21020372__11724.1604745532.jpg"
+    }
+  },
+  {
     "model": "products.product",
     "pk": 34,
     "fields": {
-        "price": 59.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "NIKE ACADEMY 18 KNIT MENS TRACKSUIT",
-        "product_description": "This is a great tracksuit set, and can be used for training, travelling and leisurewear. Its Dri-FIT fabric wicks sweat while mesh ventilates. It features articulated elbows and knees provide an ergonomic fit. The jacket has front-zippered pocket on each side provide convenient storage. Iconic stripes are sewn on the shoulders.",
-        "image": "21020446__61479.1604745568.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 59.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "NIKE ACADEMY 18 KNIT MENS TRACKSUIT",
+      "product_description": "This is a great tracksuit set, and can be used for training, travelling and leisurewear. Its Dri-FIT fabric wicks sweat while mesh ventilates. It features articulated elbows and knees provide an ergonomic fit. The jacket has front-zippered pocket on each side provide convenient storage. Iconic stripes are sewn on the shoulders.",
+      "image": "21020446__61479.1604745568.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 35,
     "fields": {
-        "price": 59.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "NIKE ACADEMY 18 KNIT MENS TRACKSUIT",
-        "product_description": "This is a great tracksuit set, and can be used for training, travelling and leisurewear. Its Dri-FIT fabric wicks sweat while mesh ventilates. It features articulated elbows and knees provide an ergonomic fit. The jacket has front-zippered pocket on each side provide convenient storage. Iconic stripes are sewn on the shoulders.",
-        "image": "21020452__01293.1604745620.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 59.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "NIKE ACADEMY 18 KNIT MENS TRACKSUIT",
+      "product_description": "This is a great tracksuit set, and can be used for training, travelling and leisurewear. Its Dri-FIT fabric wicks sweat while mesh ventilates. It features articulated elbows and knees provide an ergonomic fit. The jacket has front-zippered pocket on each side provide convenient storage. Iconic stripes are sewn on the shoulders.",
+      "image": "21020452__01293.1604745620.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 36,
     "fields": {
-        "price": 24.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "KRONK POLO SHIRT",
-        "product_description": "Kronk Men's Short Sleeved Polo Shirt.  Two button classic pique polo t-shirt with short sleeves and side vents.  Made from 100% combed cotton with knitted collar and cuffs.",
-        "image": "21020529__76605.1604706974.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 24.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "KRONK POLO SHIRT",
+      "product_description": "Kronk Men's Short Sleeved Polo Shirt.  Two button classic pique polo t-shirt with short sleeves and side vents.  Made from 100% combed cotton with knitted collar and cuffs.",
+      "image": "21020529__76605.1604706974.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 37,
     "fields": {
-        "price": 12.99,
-        "sku": "6814201",
-        "name": "VOW NUTRITION PREMIUM 1.3L MATT BOTTLE",
-        "product_description": "Keep hydrated with this 1.3L Water Bottle from VOW Nutrition. This high quality water bottle is leakproof with a 1.3L capacity so you can ensure you keep up your fluids. It ha a handy handle to the side and a secure lid.",
-        "image": "Vow-Matt-Water-Bottle-1__08925.1617049092.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 12.99,
+      "sku": "6814201",
+      "name": "VOW NUTRITION PREMIUM 1.3L MATT BOTTLE",
+      "product_description": "Keep hydrated with this 1.3L Water Bottle from VOW Nutrition. This high quality water bottle is leakproof with a 1.3L capacity so you can ensure you keep up your fluids. It ha a handy handle to the side and a secure lid.",
+      "image": "Vow-Matt-Water-Bottle-1__08925.1617049092.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 38,
     "fields": {
-        "price": 19.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "KRONK DETROIT BLACK T-SHIRT",
-        "product_description": "Men's 'KRONK DETROIT' printed Tee shirt with chest print. Kronk gym was founded in Detroit in the neighbourhood recreational centre, 1969. The legend lives on today although the gym has been relocated across town.",
-        "image": "21020565__99741.1604746770.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 19.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "KRONK DETROIT BLACK T-SHIRT",
+      "product_description": "Men's 'KRONK DETROIT' printed Tee shirt with chest print. Kronk gym was founded in Detroit in the neighbourhood recreational centre, 1969. The legend lives on today although the gym has been relocated across town.",
+      "image": "21020565__99741.1604746770.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 39,
     "fields": {
-        "price": 15.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "SHEEDY CURVED BOXING SHORTS",
-        "product_description": "These curved hem boxing shorts are made with a standard length in the finest satin and will make your fight night a night to remember. This style of curved short was inspired by Terry Flanagan and has become an increasingly popular choice.",
-        "image": "21022103_8__18236.1604751471.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 15.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "SHEEDY CURVED BOXING SHORTS",
+      "product_description": "These curved hem boxing shorts are made with a standard length in the finest satin and will make your fight night a night to remember. This style of curved short was inspired by Terry Flanagan and has become an increasingly popular choice.",
+      "image": "21022103_8__18236.1604751471.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 40,
     "fields": {
-        "price": 19.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "HYDE BOXING SHORTS",
-        "product_description": "Grab these increasingly popular style of curved hem boxing shorts that have been inspired by Sam Hyde. They have luxury gold stitiching for that added finesse!",
-        "image": "21022113_8__09132.1604751524.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 19.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "HYDE BOXING SHORTS",
+      "product_description": "Grab these increasingly popular style of curved hem boxing shorts that have been inspired by Sam Hyde. They have luxury gold stitiching for that added finesse!",
+      "image": "21022113_8__09132.1604751524.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 41,
     "fields": {
-        "price": 19.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "EDWARDS BOXING SHORT",
-        "product_description": "Grab these winning shorts that are a standard length with luxury gold details that are inspired by Charlie Edwards. Make sure you stand out in the ring with these great looking shorts.",
-        "image": "21022165_1__85142.1604751821.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 19.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "EDWARDS BOXING SHORT",
+      "product_description": "Grab these winning shorts that are a standard length with luxury gold details that are inspired by Charlie Edwards. Make sure you stand out in the ring with these great looking shorts.",
+      "image": "21022165_1__85142.1604751821.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 42,
     "fields": {
-        "price": 39.99,
-        "sku": "6814201",
-        "name": "CARBON CLAW RAZE RUBBER KETTLEBELLS - 15KG",
-        "product_description": "Great for getting a full body workout these Carbon Claw Kettlebells feature a hard chrome handle, that has an ever so slightly textured satin finish allowing for an exceptional feel when swinging. They also have large weight indicators that makes it easy to grab the right size when training.",
-        "image": "21022531__99875.1604753522.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "sku": "6814201",
+      "name": "CARBON CLAW RAZE RUBBER KETTLEBELLS - 15KG",
+      "product_description": "Great for getting a full body workout these Carbon Claw Kettlebells feature a hard chrome handle, that has an ever so slightly textured satin finish allowing for an exceptional feel when swinging. They also have large weight indicators that makes it easy to grab the right size when training.",
+      "image": "21022531__99875.1604753522.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 43,
     "fields": {
-        "price": 62.99,
-        "sku": "6814201",
-        "name": "ADIDAS SPEED HEADGUARD",
-        "product_description": "Whether you're training hard for a big match or simple trying to get some practise rounds in, this Adidas Speed Headguard headguard will keep you protected. Covered in Nubuck PU material this headguard iis padded with an ultra lightweight high end foam padding along with ear and cheek protection for ultimate safety. To ensure a good safe fit it features a hook and loop chin strap at the back of the head closing",
-        "image": "21023268__02743.1604755379.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 62.99,
+      "sku": "6814201",
+      "name": "ADIDAS SPEED HEADGUARD",
+      "product_description": "Whether you're training hard for a big match or simple trying to get some practise rounds in, this Adidas Speed Headguard headguard will keep you protected. Covered in Nubuck PU material this headguard iis padded with an ultra lightweight high end foam padding along with ear and cheek protection for ultimate safety. To ensure a good safe fit it features a hook and loop chin strap at the back of the head closing",
+      "image": "21023268__02743.1604755379.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 44,
     "fields": {
-        "price": 15.00,
-        "sku": "6814201",
-        "name": "FITNESS MAD NEOPRENE WRIST & ANKLE WEIGHT",
-        "product_description": "A really versatile product that you can use as part of your regular training or when walking, jogging, running, sprinting, cycling and even on the treadmill. These have been made from neoprene material which is breathable giving you a more comfortable fit and are filled with iron sand. Hook and loop attachment with metal D-ring.",
-        "image": "21023455_1__23839.1604756239.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 15.0,
+      "sku": "6814201",
+      "name": "FITNESS MAD NEOPRENE WRIST & ANKLE WEIGHT",
+      "product_description": "A really versatile product that you can use as part of your regular training or when walking, jogging, running, sprinting, cycling and even on the treadmill. These have been made from neoprene material which is breathable giving you a more comfortable fit and are filled with iron sand. Hook and loop attachment with metal D-ring.",
+      "image": "21023455_1__23839.1604756239.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 45,
     "fields": {
-        "price": 39.99,
-        "sku": "6814201",
-        "name": "FITNESS MAD BLACK KETTLEBELLS - 16KG",
-        "product_description": "Whether you want to burn fat, develop your cardio fitness or increase your strength it can all be done with a kettlebell. These Black versions from Fitness Mad feature an oversized powder coated handle giving you superb grip when used with one or two hands along with allowing for a full and fluid motion. To help protect the floor the base of each kettlebell is covered with a heavy duty vinyl skin.",
-        "image": "21023459__60144.1604755459.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "sku": "6814201",
+      "name": "FITNESS MAD BLACK KETTLEBELLS - 16KG",
+      "product_description": "Whether you want to burn fat, develop your cardio fitness or increase your strength it can all be done with a kettlebell. These Black versions from Fitness Mad feature an oversized powder coated handle giving you superb grip when used with one or two hands along with allowing for a full and fluid motion. To help protect the floor the base of each kettlebell is covered with a heavy duty vinyl skin.",
+      "image": "21023459__60144.1604755459.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 46,
     "fields": {
-        "price": 29.99,
-        "sku": "6814201",
-        "name": "FITNESS MAD MEDICINE BALL PVC - 5kg",
-        "product_description": "Get a complete body workout when using medicine balls. Use it to strengthen shoulders, back, arms and legs and to develop abdominal strength. These ones have been made from PVC allowing them to be waterproof and easy to grip. Available in a range of sizes to vary workouts.",
-        "image": "21023460__70760.1604766785.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 29.99,
+      "sku": "6814201",
+      "name": "FITNESS MAD MEDICINE BALL PVC - 5kg",
+      "product_description": "Get a complete body workout when using medicine balls. Use it to strengthen shoulders, back, arms and legs and to develop abdominal strength. These ones have been made from PVC allowing them to be waterproof and easy to grip. Available in a range of sizes to vary workouts.",
+      "image": "21023460__70760.1604766785.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 47,
     "fields": {
-        "price": 52.99, 
-        "sku": "6814201",
-        "name": "ADIDAS PRO FOCUS MITTS",
-        "product_description": "Ideal for those combo drill and speed training these Adidas Pro Focus Mitts are up for the job with their 10 leather strike area. The pads also feature a padded palm with grip ball to give more grip from those punches. To keep the hands well ventilated they have Anti-Moisture Climacool Technology preventing mositure build up. Padded with EVA foam for optimal shock absorption.",
-        "image": "21023975__31402.1604757446.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 52.99,
+      "sku": "6814201",
+      "name": "ADIDAS PRO FOCUS MITTS",
+      "product_description": "Ideal for those combo drill and speed training these Adidas Pro Focus Mitts are up for the job with their 10 leather strike area. The pads also feature a padded palm with grip ball to give more grip from those punches. To keep the hands well ventilated they have Anti-Moisture Climacool Technology preventing mositure build up. Padded with EVA foam for optimal shock absorption.",
+      "image": "21023975__31402.1604757446.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 48,
     "fields": {
-        "price": 40.00,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS T19 TRACK JACKET",
-        "product_description": "",
-        "image": "21025018__99489.1604760150.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 40.0,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS T19 TRACK JACKET",
+      "product_description": "",
+      "image": "21025018__99489.1604760150.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 49,
     "fields": {
-        "price": 44.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "ADIDAS T19 WOMENS WOVEN JACKET",
-        "product_description": "The Adidas T19 Woven Jacket will keep you dry and warmer on those cooler days. The soft Climalite construction wicks away sweat as you train. This women's jacket has a regular fit and features a full-zip entry along with a stylish stand-up collar. For added style, it also features a contrast trim at sleeve cuffs and waistline, zippered pockets for storage, and an Adidas logo at right chest.",
-        "image": "21025266__71330.1604760070.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 44.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "ADIDAS T19 WOMENS WOVEN JACKET",
+      "product_description": "The Adidas T19 Woven Jacket will keep you dry and warmer on those cooler days. The soft Climalite construction wicks away sweat as you train. This women's jacket has a regular fit and features a full-zip entry along with a stylish stand-up collar. For added style, it also features a contrast trim at sleeve cuffs and waistline, zippered pockets for storage, and an Adidas logo at right chest.",
+      "image": "21025266__71330.1604760070.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 50,
     "fields": {
-        "price": 19.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "BOXFIT COOL TRAINING SHORTS",
-        "product_description": "Designed with exceptional comfort in mind these cool jog shorts are ideal for the gym or relaxing at home. Made from wicking polycotton fabric and with relaxed fit they also feature an elasticated waistband with drawcords along with pockets at the side seams. Features the Boxfit logo on the left leg.",
-        "image": "21025922__61528.1604763596.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 19.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "BOXFIT COOL TRAINING SHORTS",
+      "product_description": "Designed with exceptional comfort in mind these cool jog shorts are ideal for the gym or relaxing at home. Made from wicking polycotton fabric and with relaxed fit they also feature an elasticated waistband with drawcords along with pockets at the side seams. Features the Boxfit logo on the left leg.",
+      "image": "21025922__61528.1604763596.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 51,
     "fields": {
-        "price": 26.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "OPRO POWER-FIT JUNIOR GALAXY SHIMMER MOUTHGUARD",
-        "product_description": "Dazzle your competition, to allow you to take control. Giving you the same retention and comfort as the adult version the Opro Power-Fit Junior Galaxy Shimmer Mouthguard has been engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
-        "image": "21026150__21295.1604764111.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 26.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "OPRO POWER-FIT JUNIOR GALAXY SHIMMER MOUTHGUARD",
+      "product_description": "Dazzle your competition, to allow you to take control. Giving you the same retention and comfort as the adult version the Opro Power-Fit Junior Galaxy Shimmer Mouthguard has been engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
+      "image": "21026150__21295.1604764111.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 52,
     "fields": {
-        "price": 26.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "OPRO POWER-FIT JUNIOR JAWS MOUTHGUARD",
-        "product_description": "Be sure to scare away the competition with the Opro Power-Fit Junior Jaws mouthguard. Featuring a shark tooth effect on the front you’ll leave your rivals struggling to strike. Giving you the same retention and comfort as the adult version its been engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
-        "image": "21026162__80685.1604764120.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 26.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "OPRO POWER-FIT JUNIOR JAWS MOUTHGUARD",
+      "product_description": "Be sure to scare away the competition with the Opro Power-Fit Junior Jaws mouthguard. Featuring a shark tooth effect on the front you’ll leave your rivals struggling to strike. Giving you the same retention and comfort as the adult version its been engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
+      "image": "21026162__80685.1604764120.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 53,
     "fields": {
-        "price": 26.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "OPRO POWER-FIT JUNIOR URBAN MOUTHGUARD",
-        "product_description": "Children's gum shields needn’t be dull the Junior Power-Fit Urban mouthguard from Opro has a unique flame design, these offer a mix of style and hard-wearing retention. Engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
-        "image": "21026172__37607.1604764128.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 26.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "OPRO POWER-FIT JUNIOR URBAN MOUTHGUARD",
+      "product_description": "Children's gum shields needn’t be dull the Junior Power-Fit Urban mouthguard from Opro has a unique flame design, these offer a mix of style and hard-wearing retention. Engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
+      "image": "21026172__37607.1604764128.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 54,
     "fields": {
-        "price": 26.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "OPRO POWER-FIT JUNIOR COUNTRIES MOUTHGUARD",
-        "product_description": "Let your patriotism shine as bright as your skills with the Opro Junior Power-Fit Countries mouthguard. Giving you the same retention and comfort as the adult version it has been engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
-        "image": "21026180__04764.1604764149.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 26.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "OPRO POWER-FIT JUNIOR COUNTRIES MOUTHGUARD",
+      "product_description": "Let your patriotism shine as bright as your skills with the Opro Junior Power-Fit Countries mouthguard. Giving you the same retention and comfort as the adult version it has been engineered by dental professionals, worn by athletes, and trusted by global sporting associations. This guard is easy to mould and sits comfortably in your mouth, letting you talk, drink, and breathe with no difficulty so you can get on with the job in hand. All Power-Fit mouthpieces come with an anti-microbial case.",
+      "image": "21026180__04764.1604764149.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 55,
     "fields": {
-        "price": 124.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS MAT WIZARD HYPE RING BOOTS",
-        "product_description": "The Adidas Mat Wizard Hype Boot is a special edition of the Mat Wizard with its wide fit that provides increased support. It is lightweight, ensuring breathability and comfort.  With both  and lateral sides this boot provides a consistent surface contact and firm grip to the mat even in extreme foot angles. The triaxial structured outsole assists the perfect ‘attack stance’ essential for combat sports. These boots are based on a wrestling boot design but adopted as a boxing boot by many boxers.",
-        "image": "21026945_13__63576.1604764927.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 124.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS MAT WIZARD HYPE RING BOOTS",
+      "product_description": "The Adidas Mat Wizard Hype Boot is a special edition of the Mat Wizard with its wide fit that provides increased support. It is lightweight, ensuring breathability and comfort.  With both  and lateral sides this boot provides a consistent surface contact and firm grip to the mat even in extreme foot angles. The triaxial structured outsole assists the perfect ‘attack stance’ essential for combat sports. These boots are based on a wrestling boot design but adopted as a boxing boot by many boxers.",
+      "image": "21026945_13__63576.1604764927.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 56,
     "fields": {
-        "price": 89.99,
-        "sku": "6814201",
-        "name": "ADIDAS ADISTAR PRO FOCUS MITTS",
-        "product_description": "Increase your speed, accuracy and balance with these top of the range premium focus mitts from Adidas. These quality mitts feature an 8 inch leather strike area and their layered construction foam provides the ultimate shock absorption and protection you expect from Adidas. With a padded palm with a grip, ball guarantees a secure grip.",
-        "image": "21027363__65587.1604767008.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 89.99,
+      "sku": "6814201",
+      "name": "ADIDAS ADISTAR PRO FOCUS MITTS",
+      "product_description": "Increase your speed, accuracy and balance with these top of the range premium focus mitts from Adidas. These quality mitts feature an 8 inch leather strike area and their layered construction foam provides the ultimate shock absorption and protection you expect from Adidas. With a padded palm with a grip, ball guarantees a secure grip.",
+      "image": "21027363__65587.1604767008.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 57,
     "fields": {
-        "price": 109.99,
-        "sku": "6814201",
-        "name": "ADIDAS ADISTAR PRO GROIN GUARD",
-        "product_description": "This Adidas top of the range premium Groin Guard has been designed with comfort and protection in mind. It features various layers of foam to absorb shock and impact to protect the most sensitive area. The moulded shape ensures you get an optimal fit while the lace system provides a secure and firm closure.",
-        "image": "21027364__49189.1604766826.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 109.99,
+      "sku": "6814201",
+      "name": "ADIDAS ADISTAR PRO GROIN GUARD",
+      "product_description": "This Adidas top of the range premium Groin Guard has been designed with comfort and protection in mind. It features various layers of foam to absorb shock and impact to protect the most sensitive area. The moulded shape ensures you get an optimal fit while the lace system provides a secure and firm closure.",
+      "image": "21027364__49189.1604766826.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 58,
     "fields": {
-        "price": 19.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS POLY SATIN BOXING SHORT",
-        "product_description": "Adidas Poly Satin Boxing Shorts are made from 100% Polyester Satin.  They feature a large elasticated waistband with cord tightening and have the Adidas logo printed to the front left leg in contrasting colours.",
-        "image": "21027413__32983.1604750788.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 19.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS POLY SATIN BOXING SHORT",
+      "product_description": "Adidas Poly Satin Boxing Shorts are made from 100% Polyester Satin.  They feature a large elasticated waistband with cord tightening and have the Adidas logo printed to the front left leg in contrasting colours.",
+      "image": "21027413__32983.1604750788.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 59,
     "fields": {
-        "price": 52.99,
-        "sku": "6814201",
-        "name": "MULTI-BUY - 10 X ADIDAS ABA APPROVED 2.5m BOXING HAND WRAPS",
-        "product_description": "The Adidas boxing wraps are made from 100% soft low stretchable woven tape using reactive AZO free dyes, with 5cm hook and loop fastening.  The Adidas boxing wraps are available in 2.5m or 4.5m lengths and fit the ABA specification required for competition bouts.",
-        "image": "21027738__40220.1604768173.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 52.99,
+      "sku": "6814201",
+      "name": "MULTI-BUY - 10 X ADIDAS ABA APPROVED 2.5m BOXING HAND WRAPS",
+      "product_description": "The Adidas boxing wraps are made from 100% soft low stretchable woven tape using reactive AZO free dyes, with 5cm hook and loop fastening.  The Adidas boxing wraps are available in 2.5m or 4.5m lengths and fit the ABA specification required for competition bouts.",
+      "image": "21027738__40220.1604768173.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 60,
     "fields": {
-        "price": 72.99,
-        "sku": "6814201",
-        "name": "MULTI-BUY - 10 X ADIDAS ABA APPROVED 4.5m BOXING HAND WRAPS",
-        "product_description": "The Adidas boxing wraps are made from 100% soft low stretchable woven tape using reactive AZO free dyes, with 5cm hook and loop closing.  The Adidas boxing wraps are available in 2.5m or 4.5m lengths and fit the ABA specification required for competition bouts.",
-        "image": "21027741__01727.1604768179.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 72.99,
+      "sku": "6814201",
+      "name": "MULTI-BUY - 10 X ADIDAS ABA APPROVED 4.5m BOXING HAND WRAPS",
+      "product_description": "The Adidas boxing wraps are made from 100% soft low stretchable woven tape using reactive AZO free dyes, with 5cm hook and loop closing.  The Adidas boxing wraps are available in 2.5m or 4.5m lengths and fit the ABA specification required for competition bouts.",
+      "image": "21027741__01727.1604768179.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 61,
     "fields": {
-        "price": 99.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "RIVAL RSX-GUERRERO DELUXE BOXING BOOTS",
-        "product_description": "Now, this is what we call style! The Rival RSX-Guerrero Deluxe boxing boots is the design and technical evolution of Rivals classic lo-top boxing boots. These fantastic looking boots have been uniquely engineered for both training and competition. With a mid-top design, these boots give you the optimal ankle support and stability regardless if you are in training or in your fights. Another great feature to this quality boot is a carbon fibre textured heel cap which ensures added support and a longer boot life. The Ringside Guerrero Deluxe also has a hugely improved inner fitting for ultimate comfort as well as breathable mesh on both sides for ventilation. This boxing boot features a new and improved rubber compound providing better traction and durability. The sole also includes an inner steel shaft in it for optimized performance and longer life.",
-        "image": "21028666__32574.1604771733.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 99.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "RIVAL RSX-GUERRERO DELUXE BOXING BOOTS",
+      "product_description": "Now, this is what we call style! The Rival RSX-Guerrero Deluxe boxing boots is the design and technical evolution of Rivals classic lo-top boxing boots. These fantastic looking boots have been uniquely engineered for both training and competition. With a mid-top design, these boots give you the optimal ankle support and stability regardless if you are in training or in your fights. Another great feature to this quality boot is a carbon fibre textured heel cap which ensures added support and a longer boot life. The Ringside Guerrero Deluxe also has a hugely improved inner fitting for ultimate comfort as well as breathable mesh on both sides for ventilation. This boxing boot features a new and improved rubber compound providing better traction and durability. The sole also includes an inner steel shaft in it for optimized performance and longer life.",
+      "image": "21028666__32574.1604771733.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 62,
     "fields": {
-        "price": 62.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "RIVAL RSX-GENESIS BOXING BOOTS",
-        "product_description": "What more can we say, Pro quality at a great price. The Ringside RSX-Genesis is the perfect boxing boot for everyone from professionals to beginners. Specially designed and engineered for boxing, the RSX-Genesis is the re-birth of the perfect boxing boot. they have been specially built for speed and durability ensuring they will survive the toughest work you can throw at it. A classic, beautiful looking boot that provides ultimate comfort with breathable mesh and a reinforced heel. It also features a resistant rubber sole that is perfect for movement and stability on the canvas, and is reinforced with a steel shaft for extra strength. Add to that, the stylish and effective ankle strap for added support.",
-        "image": "21028670__54497.1604771768.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 62.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "RIVAL RSX-GENESIS BOXING BOOTS",
+      "product_description": "What more can we say, Pro quality at a great price. The Ringside RSX-Genesis is the perfect boxing boot for everyone from professionals to beginners. Specially designed and engineered for boxing, the RSX-Genesis is the re-birth of the perfect boxing boot. they have been specially built for speed and durability ensuring they will survive the toughest work you can throw at it. A classic, beautiful looking boot that provides ultimate comfort with breathable mesh and a reinforced heel. It also features a resistant rubber sole that is perfect for movement and stability on the canvas, and is reinforced with a steel shaft for extra strength. Add to that, the stylish and effective ankle strap for added support.",
+      "image": "21028670__54497.1604771768.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 63,
     "fields": {
-        "price": 79.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "RINGSIDE PRO APPAREL FUNNEL NECK TRACKSUIT",
-        "product_description": "The Ringside Pro Funnel Neck Apparel Tracksuit has been designed to provide the perfect balance between performance and style. Premium quality fabrics are combined with a clean, tapered cut and reflective branding throughout for late night roadwork. Extremely comfortable and beautifully fitted, this tracksuit is at home in the gym and the street.",
-        "image": "21028933__91257.1604772087.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 79.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "RINGSIDE PRO APPAREL FUNNEL NECK TRACKSUIT",
+      "product_description": "The Ringside Pro Funnel Neck Apparel Tracksuit has been designed to provide the perfect balance between performance and style. Premium quality fabrics are combined with a clean, tapered cut and reflective branding throughout for late night roadwork. Extremely comfortable and beautifully fitted, this tracksuit is at home in the gym and the street.",
+      "image": "21028933__91257.1604772087.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 64,
     "fields": {
-        "price": 49.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "CAOIMHIN AGYARKO SLIM FIT POLY TRACKSUIT",
-        "product_description": "Keep it casual and stylish with this great looking tracksuit. It features the logo on the left chest and text on the back. Whether you’re hitting the gym or just chilling this tracksuit is perfect. This tracksuit has contrasting panels on the sleeves and sides of the bottoms and a contrasting front zip on the jacket. Both jacket and bottoms have zipped pockets",
-        "image": "21029098_9__39254.1604773191.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 49.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "CAOIMHIN AGYARKO SLIM FIT POLY TRACKSUIT",
+      "product_description": "Keep it casual and stylish with this great looking tracksuit. It features the logo on the left chest and text on the back. Whether you’re hitting the gym or just chilling this tracksuit is perfect. This tracksuit has contrasting panels on the sleeves and sides of the bottoms and a contrasting front zip on the jacket. Both jacket and bottoms have zipped pockets",
+      "image": "21029098_9__39254.1604773191.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 65,
     "fields": {
-        "price": 35.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "RINGSIDE PRO APPAREL VECTOR BOXING BOOTS",
-        "product_description": "Have the confidence to move with control and intent in these new Ringside Pro Apparel Vector Boots. You'll get supreme grip and fantastic pivot capabilities from the specially designed cupped,  traction control sole ensuring you can concentrate on your fight.The breathable mesh and synthetic nubuck upper provides comfortable support and is both washable and quick drying. Another great thing with these boots is they are super lightweight with premium construction throughout, we are sure that the Vector boot will set the standard for boxing boots in 2020.",
-        "image": "21029535__44689.1604774534.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 35.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "RINGSIDE PRO APPAREL VECTOR BOXING BOOTS",
+      "product_description": "Have the confidence to move with control and intent in these new Ringside Pro Apparel Vector Boots. You'll get supreme grip and fantastic pivot capabilities from the specially designed cupped,  traction control sole ensuring you can concentrate on your fight.The breathable mesh and synthetic nubuck upper provides comfortable support and is both washable and quick drying. Another great thing with these boots is they are super lightweight with premium construction throughout, we are sure that the Vector boot will set the standard for boxing boots in 2020.",
+      "image": "21029535__44689.1604774534.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 66,
     "fields": {
-        "price": 29.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "BXF WOMENS PANELLED LEGGINGS",
-        "product_description": "Everyone needs a good pair of black leggings, don't they? Well, with these fashion panelled leggings you will make the right statement. The on-trend mesh and innovative laser cut panels give superior styling, whist the high waistband and opaque fabric make them the perfect squat-proof option to push you through your workout. They feature a small BXF logo small on the bottom of the back right leg",
-        "image": "21029582__91590.1604775132.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 29.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "BXF WOMENS PANELLED LEGGINGS",
+      "product_description": "Everyone needs a good pair of black leggings, don't they? Well, with these fashion panelled leggings you will make the right statement. The on-trend mesh and innovative laser cut panels give superior styling, whist the high waistband and opaque fabric make them the perfect squat-proof option to push you through your workout. They feature a small BXF logo small on the bottom of the back right leg",
+      "image": "21029582__91590.1604775132.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 67,
     "fields": {
-        "price": 24.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "BXF WOMENS REFLECTIVE WINDSHIELD JACKET",
-        "product_description": "Stay warm and on-trend in this girlie cool windshield jacket. Perfect for throwing on when going to and from the gym but is also a welcomed protective layer for any outdoor activity. This cover-up features reflective trims to keep you seen wherever you are. To protect you from the elements is features a attached adjustable hood, shock cord adjustable hem and elasticated cuffs.",
-        "image": "21029610__62024.1604774764.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 24.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "BXF WOMENS REFLECTIVE WINDSHIELD JACKET",
+      "product_description": "Stay warm and on-trend in this girlie cool windshield jacket. Perfect for throwing on when going to and from the gym but is also a welcomed protective layer for any outdoor activity. This cover-up features reflective trims to keep you seen wherever you are. To protect you from the elements is features a attached adjustable hood, shock cord adjustable hem and elasticated cuffs.",
+      "image": "21029610__62024.1604774764.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 68,
     "fields": {
-        "price": 52.99,
-        "sku": "6814201",
-        "name": "ADIDAS SPEED PRO GROIN GUARD",
-        "product_description": "The Adidas Speed Pro Groin Guard is created using a high quality PU material. It features a reinforced plastic cup with high density foam padding and a 4 inch wide secure elastic strap on the back.",
-        "image": "21029639_4__75131.1608116721.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 52.99,
+      "sku": "6814201",
+      "name": "ADIDAS SPEED PRO GROIN GUARD",
+      "product_description": "The Adidas Speed Pro Groin Guard is created using a high quality PU material. It features a reinforced plastic cup with high density foam padding and a 4 inch wide secure elastic strap on the back.",
+      "image": "21029639_4__75131.1608116721.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 69,
     "fields": {
-        "price": 14.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "BXF WOMENS LIGHT CROP TOP",
-        "product_description": "Layer up your workout outfit with this cropped top that  is non-restrictive and will keep you confident and cool while you work up a sweat.",
-        "image": "21029650__57200.1604774846.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 14.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "BXF WOMENS LIGHT CROP TOP",
+      "product_description": "Layer up your workout outfit with this cropped top that  is non-restrictive and will keep you confident and cool while you work up a sweat.",
+      "image": "21029650__57200.1604774846.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 70,
     "fields": {
-        "price": 24.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS CAMO SATIN BOXING SHORTS",
-        "product_description": "Crafted in 100% polyester satin these lightweight Adidas Camo Boxing Shorts have a large elasticated waistband along with a cord at the waist for a perfect fit allowing you to fight with confidence.",
-        "image": "21029736__86471.1604774721.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 24.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS CAMO SATIN BOXING SHORTS",
+      "product_description": "Crafted in 100% polyester satin these lightweight Adidas Camo Boxing Shorts have a large elasticated waistband along with a cord at the waist for a perfect fit allowing you to fight with confidence.",
+      "image": "21029736__86471.1604774721.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 71,
     "fields": {
-        "price": 4.99,
-        "sku": "6814201",
-        "name": "FITNESS MAD PRO HANDWEIGHTS - 1KG",
-        "product_description": "These Pro Handweights from Fitness Mad are great for increasing your workout.  Whether walking, jogging, aerobics or even shadow boxing they will help to tone and increase intensity.  The steel handles are covered in a non-slip NBR foam for a soft and comfortable grip with an elasticated hand strap for additional safety.  These handweights come as a pair and are available in three different weights.",
-        "image": "21030177__57067.1604777745.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 4.99,
+      "sku": "6814201",
+      "name": "FITNESS MAD PRO HANDWEIGHTS - 1KG",
+      "product_description": "These Pro Handweights from Fitness Mad are great for increasing your workout.  Whether walking, jogging, aerobics or even shadow boxing they will help to tone and increase intensity.  The steel handles are covered in a non-slip NBR foam for a soft and comfortable grip with an elasticated hand strap for additional safety.  These handweights come as a pair and are available in three different weights.",
+      "image": "21030177__57067.1604777745.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 72,
     "fields": {
-        "price": 24.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "BXF WOMENS SEAMLESS SCULPT SOLID COLOUR LEGGINGS - BLUE",
-        "product_description": "You know you can't go wrong with a good pair of leggings. These sculpted leggings are seamless making them truly comfortable and allowing for freedom of movement for any workout. They also feature a body sculpting design detail that gives you a great silhouette.",
-        "image": "21030360__96863.1604775012.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 24.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "BXF WOMENS SEAMLESS SCULPT SOLID COLOUR LEGGINGS - BLUE",
+      "product_description": "You know you can't go wrong with a good pair of leggings. These sculpted leggings are seamless making them truly comfortable and allowing for freedom of movement for any workout. They also feature a body sculpting design detail that gives you a great silhouette.",
+      "image": "21030360__96863.1604775012.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 73,
     "fields": {
-        "price": 19.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "BXF WOMENS WORKOUT VEST",
-        "product_description": "Style up your workout gear with this strappy back vesst that features drop armholes, scoop neck and curved hem mean this flattering athleisure style is easy to style and layer up.",
-        "image": "21030694__06558.1604779217.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 19.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "BXF WOMENS WORKOUT VEST",
+      "product_description": "Style up your workout gear with this strappy back vesst that features drop armholes, scoop neck and curved hem mean this flattering athleisure style is easy to style and layer up.",
+      "image": "21030694__06558.1604779217.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 74,
     "fields": {
-        "price": 14.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "BXF CONTRAST T-SHIRT",
-        "product_description": "Add some bold styling to your workout with this contrast side panel t-shirt. With its short sleeves and regular fit it will bring style and comfort to your training.",
-        "image": "21030843__74998.1604779710.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 14.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "BXF CONTRAST T-SHIRT",
+      "product_description": "Add some bold styling to your workout with this contrast side panel t-shirt. With its short sleeves and regular fit it will bring style and comfort to your training.",
+      "image": "21030843__74998.1604779710.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 75,
     "fields": {
-        "price": 15.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "BXF KIDS SEAMLESS FADE OUT VEST",
-        "product_description": "The ideal vest for working out in, this high-stretch seamless vest is comfortable and flexible no matter what you are doing. The melange fabric with ombre colouring makes this the ultimate choice for comfort and style.",
-        "image": "21031874__15523.1604783826.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 15.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "BXF KIDS SEAMLESS FADE OUT VEST",
+      "product_description": "The ideal vest for working out in, this high-stretch seamless vest is comfortable and flexible no matter what you are doing. The melange fabric with ombre colouring makes this the ultimate choice for comfort and style.",
+      "image": "21031874__15523.1604783826.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 76,
     "fields": {
-        "price": 29.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "BXF KIDS CAMO HOODIE",
-        "product_description": "Get some camo into your kids wardrobe with this BXF hoodie. Made from cotton face fabric to make it really soft it also has a kangaroo pocket to the front. Throw it on after training or even pair with jeans for a trendy casual look. Has the BXF text logo to the front.",
-        "image": "21031165__80712.1604780827.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 29.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "BXF KIDS CAMO HOODIE",
+      "product_description": "Get some camo into your kids wardrobe with this BXF hoodie. Made from cotton face fabric to make it really soft it also has a kangaroo pocket to the front. Throw it on after training or even pair with jeans for a trendy casual look. Has the BXF text logo to the front.",
+      "image": "21031165__80712.1604780827.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 77,
     "fields": {
-        "price": 26.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "BXF ACTIVE PULLOVER",
-        "product_description": "Fancy a change from the classic hoody? This BXF Active Pullover is just what you’re looking for with its decorative chest pocket, drawstring on the waist band and a hood that also has an inside collar. This hoody looks like a classic windbreaker but is made in a soft-cotton blend making it very comfortable. Features the BXF logo to the left chest.",
-        "image": "21031874__15523.1604783826.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 26.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "BXF ACTIVE PULLOVER",
+      "product_description": "Fancy a change from the classic hoody? This BXF Active Pullover is just what you’re looking for with its decorative chest pocket, drawstring on the waist band and a hood that also has an inside collar. This hoody looks like a classic windbreaker but is made in a soft-cotton blend making it very comfortable. Features the BXF logo to the left chest.",
+      "image": "21031874__15523.1604783826.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 78,
     "fields": {
-        "price": 39.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "BXF WOMENS PULLOVER JACKET",
-        "product_description": "This lightweight pull over jacket is just the ticket for any weather and will get you through the seasons change. The overcut shoulders and hood with inside collar and zipper ensure optimum comfort. Made from lightweight material that features the BXF logo to the pocket flap.",
-        "image": "21031934__04120.1604784283.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "BXF WOMENS PULLOVER JACKET",
+      "product_description": "This lightweight pull over jacket is just the ticket for any weather and will get you through the seasons change. The overcut shoulders and hood with inside collar and zipper ensure optimum comfort. Made from lightweight material that features the BXF logo to the pocket flap.",
+      "image": "21031934__04120.1604784283.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 79,
     "fields": {
-        "price": 7.99,
-        "sku": "6814201",
-        "name": "FITNESS MAD BLACK NEO DUMBELLS - 1KG",
-        "product_description": "The Fitness Mad Black Neo Dumbells are great for home or commercial use. Coated in a soft neoprene to ensure a non-slip firm grip during your workout, the flat bottom design also prevents the weights rolling when on the floor. Dumbbells are suitable for all kinds of workouts including shadow boxing, pilates, aerobics and also rehabilitation or physiotherapy.",
-        "image": "21032012__53616.1604783430.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 7.99,
+      "sku": "6814201",
+      "name": "FITNESS MAD BLACK NEO DUMBELLS - 1KG",
+      "product_description": "The Fitness Mad Black Neo Dumbells are great for home or commercial use. Coated in a soft neoprene to ensure a non-slip firm grip during your workout, the flat bottom design also prevents the weights rolling when on the floor. Dumbbells are suitable for all kinds of workouts including shadow boxing, pilates, aerobics and also rehabilitation or physiotherapy.",
+      "image": "21032012__53616.1604783430.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 80,
     "fields": {
-        "price": 44.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS BOXING ZIP JACKET",
-        "product_description": "Warm and comfortable to wear this Adidas Boxing Zip Jacket has been made from a soft cotton material. It features a stylish high collar and pockets.  For distinct style it has The brand with the three stripes and large adidas logo print on the front.",
-        "image": "21032245__71504.1604785334.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 44.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS BOXING ZIP JACKET",
+      "product_description": "Warm and comfortable to wear this Adidas Boxing Zip Jacket has been made from a soft cotton material. It features a stylish high collar and pockets.  For distinct style it has The brand with the three stripes and large adidas logo print on the front.",
+      "image": "21032245__71504.1604785334.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 81,
     "fields": {
-        "price": 19.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "BXF JOGGER SHORTS",
-        "product_description": "On all-rounder pair of shorts that can be used for your workouts or lougning about. Made from a premium 300gsm 85% organic cotton, 15% polyester for ultra comfort they also feature a pocket at back. Complete with the BXF log on the left leg.",
-        "image": "21032669__57686.1604779574.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 19.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "BXF JOGGER SHORTS",
+      "product_description": "On all-rounder pair of shorts that can be used for your workouts or lougning about. Made from a premium 300gsm 85% organic cotton, 15% polyester for ultra comfort they also feature a pocket at back. Complete with the BXF log on the left leg.",
+      "image": "21032669__57686.1604779574.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 82,
     "fields": {
-        "price": 24.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "UNDER ARMOUR PERFORMANCE POLO TEXTURED 2.0",
-        "product_description": "The Performance Polo 2.0 is now made in a fabric with a textured look and feel to it, for an elevated finish. Its still got all the sweat-wicking, heat-battling benefits that you know and rely upon from Under Armour.",
-        "image": "21032824__17181.1604786678.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 24.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "UNDER ARMOUR PERFORMANCE POLO TEXTURED 2.0",
+      "product_description": "The Performance Polo 2.0 is now made in a fabric with a textured look and feel to it, for an elevated finish. Its still got all the sweat-wicking, heat-battling benefits that you know and rely upon from Under Armour.",
+      "image": "21032824__17181.1604786678.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 83,
     "fields": {
-        "price": 34.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "UNDER ARMOUR TECH 2.0 1/2 ZIP LONG SLEEVE",
-        "product_description": "UA Tech™ is the original go-to training gear that is guaranteed to be loose, light, and it keeps you cool. It's everything you will need.",
-        "image": "21032837__50327.1604786627.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 34.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "UNDER ARMOUR TECH 2.0 1/2 ZIP LONG SLEEVE",
+      "product_description": "UA Tech™ is the original go-to training gear that is guaranteed to be loose, light, and it keeps you cool. It's everything you will need.",
+      "image": "21032837__50327.1604786627.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 84,
     "fields": {
-        "price": 25.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "UNDER ARMOUR TECH SHORT SLEEVE TEE",
-        "product_description": "Push yourself harder in this UA Tech™ t-shirt that is made with fabric that is quick-drying, ultra-soft and has a more natural feel. This material wicks sweat and dries really fast along with anti-odour technology prevents the growth of odour-causing microbes.",
-        "image": "21032838__98950.1604786646.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 25.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "UNDER ARMOUR TECH SHORT SLEEVE TEE",
+      "product_description": "Push yourself harder in this UA Tech™ t-shirt that is made with fabric that is quick-drying, ultra-soft and has a more natural feel. This material wicks sweat and dries really fast along with anti-odour technology prevents the growth of odour-causing microbes.",
+      "image": "21032838__98950.1604786646.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 85,
     "fields": {
-        "price": 44.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "UNDER ARMOUR WOMENS RIVAL FLEECE FULL-ZIP HOODIE",
-        "product_description": "Get ultra-comfy, in this lightweight full-zip cotton-blend fleece. Great for wearing to and from the gym with its soft inner layers to keep you warm and comfortable.",
-        "image": "21032844__91441.1604786766.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 44.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "UNDER ARMOUR WOMENS RIVAL FLEECE FULL-ZIP HOODIE",
+      "product_description": "Get ultra-comfy, in this lightweight full-zip cotton-blend fleece. Great for wearing to and from the gym with its soft inner layers to keep you warm and comfortable.",
+      "image": "21032844__91441.1604786766.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 86,
     "fields": {
-        "price": 29.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "BXF KIDS HOODIE",
-        "product_description": "Stay warm on those cooler nights in this BXF Kids Hoodie. Features a handy simple kangaroo pocket along with rib cuff and hem for comfort. It has cosy soft brushed reverse. Comes with the BXF logo left breast, right arm and at the top of the back.",
-        "image": "21033048__06806.1604757789.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 29.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "BXF KIDS HOODIE",
+      "product_description": "Stay warm on those cooler nights in this BXF Kids Hoodie. Features a handy simple kangaroo pocket along with rib cuff and hem for comfort. It has cosy soft brushed reverse. Comes with the BXF logo left breast, right arm and at the top of the back.",
+      "image": "21033048__06806.1604757789.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 87,
     "fields": {
-        "price": 14.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "BXF SPECTER VEST",
-        "product_description": "Perfect for training or for those warmer rest days. The BXF men's tank top is made from 100% organic cotton and has a classic style is so comfortable to wear due to the soft-hand feel.",
-        "image": "21033054__00314.1604780469.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 14.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "BXF SPECTER VEST",
+      "product_description": "Perfect for training or for those warmer rest days. The BXF men's tank top is made from 100% organic cotton and has a classic style is so comfortable to wear due to the soft-hand feel.",
+      "image": "21033054__00314.1604780469.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 88,
     "fields": {
-        "price": 24.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "BXF WOMENS COLLEGE HOODIE",
-        "product_description": "With its feminine fit this hoodie is ideal for a classic casual look that you can throw on anytime.",
-        "image": "21033090__73293.1604778972.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 24.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "BXF WOMENS COLLEGE HOODIE",
+      "product_description": "With its feminine fit this hoodie is ideal for a classic casual look that you can throw on anytime.",
+      "image": "21033090__73293.1604778972.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 89,
     "fields": {
-        "price": 22.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "BXF KIDS BASEBALL HOODIE",
-        "product_description": "Get a little bit of American inspired style in this BXF Kids Baseball Hoodie. It features contrast sleeves and hood and a handy kangaroo pouch pocket. Also features the BXF logo on the left chest and also on the right cuff.",
-        "image": "21033107__19410.1604781230.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 22.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "BXF KIDS BASEBALL HOODIE",
+      "product_description": "Get a little bit of American inspired style in this BXF Kids Baseball Hoodie. It features contrast sleeves and hood and a handy kangaroo pouch pocket. Also features the BXF logo on the left chest and also on the right cuff.",
+      "image": "21033107__19410.1604781230.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 90,
     "fields": {
-        "price": 19.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "BXF TRAINING SHORTS",
-        "product_description": "An essential for your workouts these BXF training shorts are lightweight, flexible and breathable ensuring that you keep cool and comfortable.They are mid length with a comfortable elasticated waist that has a drawcord waistband. Features the BXF logo on the back of the leg,",
-        "image": "21033181__24195.1604780561.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 19.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "BXF TRAINING SHORTS",
+      "product_description": "An essential for your workouts these BXF training shorts are lightweight, flexible and breathable ensuring that you keep cool and comfortable.They are mid length with a comfortable elasticated waist that has a drawcord waistband. Features the BXF logo on the back of the leg,",
+      "image": "21033181__24195.1604780561.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 91,
     "fields": {
-        "price": 19.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "BXF RHINO KIDS SHORTS",
-        "product_description": "This BXF short provides maximum freedom of movement for a comfortable fit during sport activities. The two-in-one design features an elasticated waist and the BXF logo completes the look.",
-        "image": "21033187__99212.1604781470.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 19.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "BXF RHINO KIDS SHORTS",
+      "product_description": "This BXF short provides maximum freedom of movement for a comfortable fit during sport activities. The two-in-one design features an elasticated waist and the BXF logo completes the look.",
+      "image": "21033187__99212.1604781470.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 92,
     "fields": {
-        "price": 34.99,
-        "gender": "Women",
-        "sku": "6814201",
-        "name": "BXF GIRLIE COOL CONTRAST ZOODIE",
-        "product_description": "Ideal for throwing on to and from the gym on those chilly nights, this cool sports zoodie combines wicking performance with lightly brushed fabric making it soft on the body. The adjustable attached hood featuring drawcords protects from the elements while the raglan sleeves and thumb holes offer great range of motion. Features the BXF logo left breast, right cuff and on the bottom of back.",
-        "image": "21033208__06638.1604757658.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 34.99,
+      "gender": 2,
+      "sku": "6814201",
+      "name": "BXF GIRLIE COOL CONTRAST ZOODIE",
+      "product_description": "Ideal for throwing on to and from the gym on those chilly nights, this cool sports zoodie combines wicking performance with lightly brushed fabric making it soft on the body. The adjustable attached hood featuring drawcords protects from the elements while the raglan sleeves and thumb holes offer great range of motion. Features the BXF logo left breast, right cuff and on the bottom of back.",
+      "image": "21033208__06638.1604757658.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 93,
     "fields": {
-        "price": 79.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS TECH FALL 2.0 BOOTS",
-        "product_description": "Combining Adidas's top tooling with a mesh upper that has been reinforced from the inside these Tech Fall 2.0 boots from Adidas are a must to have. They have all the features you have come to expect flexibility, breathability, grip and support, these boots are blended on a high level. The knitted mesh uppers provide breathability, lightweight and strong support in all areas.",
-        "image": "21033666__87378.1624308287.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 79.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS TECH FALL 2.0 BOOTS",
+      "product_description": "Combining Adidas's top tooling with a mesh upper that has been reinforced from the inside these Tech Fall 2.0 boots from Adidas are a must to have. They have all the features you have come to expect flexibility, breathability, grip and support, these boots are blended on a high level. The knitted mesh uppers provide breathability, lightweight and strong support in all areas.",
+      "image": "21033666__87378.1624308287.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 94,
     "fields": {
-        "price": 99.99,
-        "sku": "6814201",
-        "name": "CLETO REYES SPARRING HEADGUARD",
-        "product_description": "Cleto Reyes boxing equipment of Mexico is like no other boxing equipment supplier. Cleto Reyes Headguard is manufactured from leather. This boxing headguard has cheek protection with a lace tie on top and two hook and loop rear straps and a chin strap fastening for a superior fit.",
-        "image": "21033793__67624.1604702829.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 99.99,
+      "sku": "6814201",
+      "name": "CLETO REYES SPARRING HEADGUARD",
+      "product_description": "Cleto Reyes boxing equipment of Mexico is like no other boxing equipment supplier. Cleto Reyes Headguard is manufactured from leather. This boxing headguard has cheek protection with a lace tie on top and two hook and loop rear straps and a chin strap fastening for a superior fit.",
+      "image": "21033793__67624.1604702829.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 95,
     "fields": {
-        "price": 36.99,
-        "gender": "Kids",
-        "sku": "6814201",
-        "name": "ADIDAS KIDS BOXING GLOVES AND FOCUS MITTS SET",
-        "product_description": "This boxing set is ideal for beginner pad sessions to get the bug for boxing. The set includes 1 pair of boxing gloves and 1 pair of focus mitts so everything you need to get going",
-        "image": "21034024__07047.1608117671.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 36.99,
+      "gender": 3,
+      "sku": "6814201",
+      "name": "ADIDAS KIDS BOXING GLOVES AND FOCUS MITTS SET",
+      "product_description": "This boxing set is ideal for beginner pad sessions to get the bug for boxing. The set includes 1 pair of boxing gloves and 1 pair of focus mitts so everything you need to get going",
+      "image": "21034024__07047.1608117671.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 96,
     "fields": {
-        "price": 25.00,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "BXF MOVER JOGGERS",
-        "product_description": "Understated and comfortable these BXF jogger pants is cut in premium 300gsm 85% organic cotton, 15% recycled polyester brushed fabric. With adjustable drawcord on the waistband, a patch pocket on the back and the BXF printed logo left leg, you’re covered on your training day to your rest day.",
-        "image": "21034031__63298.1608117857.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 25.0,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "BXF MOVER JOGGERS",
+      "product_description": "Understated and comfortable these BXF jogger pants is cut in premium 300gsm 85% organic cotton, 15% recycled polyester brushed fabric. With adjustable drawcord on the waistband, a patch pocket on the back and the BXF printed logo left leg, you’re covered on your training day to your rest day.",
+      "image": "21034031__63298.1608117857.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 97,
     "fields": {
-        "price": 39.99,
-        "sku": "6814201",
-        "name": "BYTOMIC RUBBER MEDICINE BALL - 5KG",
-        "product_description": "Medicine balls are great for a complete body workout, wether your in the gym or at home. The Bytomic Rubber Medicine Ball can be used to strengthen shoulders, back and arms as well as improving core strength with a wide range of exercises. Made from rubber material makes them easy grip as well as a waterproof and easy to clean. Available in a range of weights, so you can pick the perfect weight for all your strength training needs.",
-        "image": "21034241__82725.1608118081.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "sku": "6814201",
+      "name": "BYTOMIC RUBBER MEDICINE BALL - 5KG",
+      "product_description": "Medicine balls are great for a complete body workout, wether your in the gym or at home. The Bytomic Rubber Medicine Ball can be used to strengthen shoulders, back and arms as well as improving core strength with a wide range of exercises. Made from rubber material makes them easy grip as well as a waterproof and easy to clean. Available in a range of weights, so you can pick the perfect weight for all your strength training needs.",
+      "image": "21034241__82725.1608118081.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 98,
     "fields": {
-        "price": 69.99,
-        "sku": "6814201",
-        "name": "ADIDAS BOXING TARGET PADDLES",
-        "product_description": "Mix up the workout and use these Adidas Boxing Target Paddles that make a great alternative or supplement to punch mitts. With their easier to grip handle they also feature a wrist loop for security. Covered in a PU vinyl cover with a dense foam filling so they can handle the punishment you give them!",
-        "image": "21034308__12770.1608148312.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 69.99,
+      "sku": "6814201",
+      "name": "ADIDAS BOXING TARGET PADDLES",
+      "product_description": "Mix up the workout and use these Adidas Boxing Target Paddles that make a great alternative or supplement to punch mitts. With their easier to grip handle they also feature a wrist loop for security. Covered in a PU vinyl cover with a dense foam filling so they can handle the punishment you give them!",
+      "image": "21034308__12770.1608148312.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 99,
     "fields": {
-        "price": 12.99,
-        "sku": "6814201",
-        "name": "Pro Fitness Weighted Skipping Rope",
-        "product_description": "Add something a little bit extra to your skipping exericse with this weighted skipping rope. Perfect for fitness exercises, speed training, boxing, and crossfit, whether you're at the gym or at home. It's ideal for people looking to tone muscle, lose weight and build their cardio endurance. The length of the skipping rope can be adjusted to suit you as the weight of the jump rope adds an extra element to your cardio training.",
-        "image": "90297595.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 12.99,
+      "sku": "6814201",
+      "name": "Pro Fitness Weighted Skipping Rope",
+      "product_description": "Add something a little bit extra to your skipping exericse with this weighted skipping rope. Perfect for fitness exercises, speed training, boxing, and crossfit, whether you're at the gym or at home. It's ideal for people looking to tone muscle, lose weight and build their cardio endurance. The length of the skipping rope can be adjusted to suit you as the weight of the jump rope adds an extra element to your cardio training.",
+      "image": "90297595.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 100,
     "fields": {
-        "price": 9.99,
-        "sku": "6814201",
-        "name": "Pro Fitness Speed Rope",
-        "product_description": "Perfect for building your cardio endurance, stamina and speed, this Pro Fitness Speed Rope will have you skipping around at home or the gym like a pro. The 300mm cable's length is fully adjustable by using its large screws, making it ideal for any person's height. The wire cable means no kinking, tangling or bending like the usual PVC and leather ropes so you can focus on training.",
-        "image": "90394945.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 9.99,
+      "sku": "6814201",
+      "name": "Pro Fitness Speed Rope",
+      "product_description": "Perfect for building your cardio endurance, stamina and speed, this Pro Fitness Speed Rope will have you skipping around at home or the gym like a pro. The 300mm cable's length is fully adjustable by using its large screws, making it ideal for any person's height. The wire cable means no kinking, tangling or bending like the usual PVC and leather ropes so you can focus on training.",
+      "image": "90394945.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 101,
     "fields": {
-        "price": 9.99,
-        "sku": "6814201",
-        "name": "Genuine Thermos Hydration Aubergine Bottle - 710ml",
-        "product_description": "With our Thermos hydration bottles, staying hydrated has never been easier! Always BPA-free, these bottles are perfectly designed to help keep you on your feet no matter what. The measuring levels on the side of the bottle let you monitor your daily consumption easily and effectively. This bottle is perfect for a life on the move as the lid uses a one-handed, push-button mechanism so you don't have to stop to drink. Including an integrated carry-loop for easy transportation, you'll never leave this bottle behind!",
-        "image": "91203945.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 9.99,
+      "sku": "6814201",
+      "name": "Genuine Thermos Hydration Aubergine Bottle - 710ml",
+      "product_description": "With our Thermos hydration bottles, staying hydrated has never been easier! Always BPA-free, these bottles are perfectly designed to help keep you on your feet no matter what. The measuring levels on the side of the bottle let you monitor your daily consumption easily and effectively. This bottle is perfect for a life on the move as the lid uses a one-handed, push-button mechanism so you don't have to stop to drink. Including an integrated carry-loop for easy transportation, you'll never leave this bottle behind!",
+      "image": "91203945.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 102,
     "fields": {
-        "price": 9.99,
-        "sku": "6814201",
-        "name": "Everlast Hand Wraps - 274cm",
-        "product_description": "These hand wraps from Everlast are designed to provide extra protection and support you while you practice your best boxing or martial arts moves. They feature breathable thumb straps for full mobility and offer comfort as you train. These high quality hand wraps come with easy to follow instructions for first time users.",
-        "image": "98734987.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 9.99,
+      "sku": "6814201",
+      "name": "Everlast Hand Wraps - 274cm",
+      "product_description": "These hand wraps from Everlast are designed to provide extra protection and support you while you practice your best boxing or martial arts moves. They feature breathable thumb straps for full mobility and offer comfort as you train. These high quality hand wraps come with easy to follow instructions for first time users.",
+      "image": "98734987.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 103,
     "fields": {
-        "price": 7.99,
-        "sku": "6814201",
-        "name": "Adidas 450cm Hand Wraps",
-        "product_description": "These hand wraps are ideal for not only boxing but all combat sports. Not only will they aid in both hand and wrist protection while training or during sparring sessions, the non-abrasive stretch material will help to keep you comfortable throughout.",
-        "image": "98798734.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 7.99,
+      "sku": "6814201",
+      "name": "Adidas 450cm Hand Wraps",
+      "product_description": "These hand wraps are ideal for not only boxing but all combat sports. Not only will they aid in both hand and wrist protection while training or during sparring sessions, the non-abrasive stretch material will help to keep you comfortable throughout.",
+      "image": "98798734.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 104,
     "fields": {
-        "price": 29.99,
-        "sku": "6814201",
-        "name": "OPRO POWER-FIT BRACES",
-        "product_description": "Having braces should not mean you sacrifice the retention or comfort of your mouthguard. That’s why these Opro Power-Fit gum shields are ideal for braces wearers too. The difference between these and our Opro's original Power-Fit gumshields is these allow the space to accommodate for your braces. You still get a custom-fit, professional retention, and a full range of styles and colours. ",
-        "image": "234454543.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 29.99,
+      "sku": "6814201",
+      "name": "OPRO POWER-FIT BRACES",
+      "product_description": "Having braces should not mean you sacrifice the retention or comfort of your mouthguard. That’s why these Opro Power-Fit gum shields are ideal for braces wearers too. The difference between these and our Opro's original Power-Fit gumshields is these allow the space to accommodate for your braces. You still get a custom-fit, professional retention, and a full range of styles and colours. ",
+      "image": "234454543.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 105,
     "fields": {
-        "price": 8.99,
-        "sku": "6814201",
-        "name": "PhD 1.5L Water Bottle 1.5L",
-        "product_description": "The PhD water bottle comes in an eye-catching smoked black colour. Strong and durable it comes with a leak-proof stainless steel screw top lid and red strap which attaches to the bottle to help avoid losses, making it the perfect product for your desk or gym bag.",
-        "image": "893394858.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 8.99,
+      "sku": "6814201",
+      "name": "PhD 1.5L Water Bottle 1.5L",
+      "product_description": "The PhD water bottle comes in an eye-catching smoked black colour. Strong and durable it comes with a leak-proof stainless steel screw top lid and red strap which attaches to the bottle to help avoid losses, making it the perfect product for your desk or gym bag.",
+      "image": "893394858.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 106,
     "fields": {
-        "price": 39.99,
-        "sku": "6814201",
-        "name": "Opti 10kg Weighted Vest",
-        "product_description": "Perfect for adding an extra element to your strength and cross fit training, this weighted vest will help you increase the intensity and efficiency of your workout. The front and back weights are evenly distributed to support your optimum performance, and you can easily remove the weights to adjust your resistance level. One size fits most and the waist is Velcro to give you safety and protection while you use it.",
-        "image": "5639205857.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "sku": "6814201",
+      "name": "Opti 10kg Weighted Vest",
+      "product_description": "Perfect for adding an extra element to your strength and cross fit training, this weighted vest will help you increase the intensity and efficiency of your workout. The front and back weights are evenly distributed to support your optimum performance, and you can easily remove the weights to adjust your resistance level. One size fits most and the waist is Velcro to give you safety and protection while you use it.",
+      "image": "5639205857.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 107,
     "fields": {
-        "price": 9.99,
-        "sku": "6814201",
-        "name": "Thermos Guardian 710ml Hydration Bottle",
-        "product_description": "New to the Thermos range, The Guardian Series is stylish yet understated, designed with unique technology enhancements. Available in 2 colourways, our 710ml hydration bottle is perfect for the daily commute or people on the go. Created with the Thermos quality and performance you can rely on and with a 5-year guarantee, this hydration bottle is a style icon.",
-        "image": "8210292470.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 9.99,
+      "sku": "6814201",
+      "name": "Thermos Guardian 710ml Hydration Bottle",
+      "product_description": "New to the Thermos range, The Guardian Series is stylish yet understated, designed with unique technology enhancements. Available in 2 colourways, our 710ml hydration bottle is perfect for the daily commute or people on the go. Created with the Thermos quality and performance you can rely on and with a 5-year guarantee, this hydration bottle is a style icon.",
+      "image": "8210292470.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 108,
     "fields": {
-        "price": 39.99,
-        "sku": "6814201",
-        "name": "Pro Fitness 10kg Weighted Vest",
-        "product_description": "Add intensity to any workout with the Pro Fitness weighted vest. With a tapered design and adjustable side straps for a close fit, this vest will keep you looking cool while you work up a sweat. Great for any type of exercise from pull ups and push ups, to cardio training on a treadmill or stepper. With removable weights, this vest is suitable for a variety of fitness levels, and will keep you challenged as your strength and fitness improve.",
-        "image": "8978734345.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "sku": "6814201",
+      "name": "Pro Fitness 10kg Weighted Vest",
+      "product_description": "Add intensity to any workout with the Pro Fitness weighted vest. With a tapered design and adjustable side straps for a close fit, this vest will keep you looking cool while you work up a sweat. Great for any type of exercise from pull ups and push ups, to cardio training on a treadmill or stepper. With removable weights, this vest is suitable for a variety of fitness levels, and will keep you challenged as your strength and fitness improve.",
+      "image": "8978734345.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 109,
     "fields": {
-        "price": 5.99,
-        "sku": "6814201",
-        "name": "Opti Deluxe Skipping Rope",
-        "product_description": "Increase your agility and balance with this 9ft Skipping Rope. The foam covered handles provide extra comfort, while the ball bearings offer speed and smoothness of rotation.",
-        "image": "9029357305.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 5.99,
+      "sku": "6814201",
+      "name": "Opti Deluxe Skipping Rope",
+      "product_description": "Increase your agility and balance with this 9ft Skipping Rope. The foam covered handles provide extra comfort, while the ball bearings offer speed and smoothness of rotation.",
+      "image": "9029357305.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 110,
     "fields": {
-        "price": 49.99,
-        "sku": "6814201",
-        "name": "TUF WEAR HEAVY DUTY BARREL SLIP BAG WITH CHAIN",
-        "product_description": "This Tuf Wear Heavy Duty PU Barrel Slip bag is a great alternative to any traditional style slip bag. A slip bag can help you perfect your footwork and take it to new levels whilst improving your reactions. Comes complete with a chain for easy hanging.",
-        "image": "89729794343.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 49.99,
+      "sku": "6814201",
+      "name": "TUF WEAR HEAVY DUTY BARREL SLIP BAG WITH CHAIN",
+      "product_description": "This Tuf Wear Heavy Duty PU Barrel Slip bag is a great alternative to any traditional style slip bag. A slip bag can help you perfect your footwork and take it to new levels whilst improving your reactions. Comes complete with a chain for easy hanging.",
+      "image": "89729794343.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 111,
     "fields": {
-        "price": 299.99,
-        "sku": "6814201",
-        "name": "PRO BOX ORIGINAL MAIZE BAG",
-        "product_description": "The Pro Box Original Leather Maize Bag is a heavy duty soft leather maize bag and comes from Pro Box's original range that brings together the best in proven design and modern technology. This maize bag is suitable for intense use uppercut training and is filled with plastic granules.",
-        "image": "98734987394874.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 299.99,
+      "sku": "6814201",
+      "name": "PRO BOX ORIGINAL MAIZE BAG",
+      "product_description": "The Pro Box Original Leather Maize Bag is a heavy duty soft leather maize bag and comes from Pro Box's original range that brings together the best in proven design and modern technology. This maize bag is suitable for intense use uppercut training and is filled with plastic granules.",
+      "image": "98734987394874.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 112,
     "fields": {
-        "price": 39.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS GOLD PRINT BOXING HOODY",
-        "product_description": "Perfect for throwing on after a workout or on those well earned non-training days. Comfortable and warm, all you'd expect from Adidas.",
-        "image": "adidas_boxing_hoody_copy__12798.1615671422.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS GOLD PRINT BOXING HOODY",
+      "product_description": "Perfect for throwing on after a workout or on those well earned non-training days. Comfortable and warm, all you'd expect from Adidas.",
+      "image": "adidas_boxing_hoody_copy__12798.1615671422.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 113,
     "fields": {
-        "price": 35.99,
-        "sku": "6814201",
-        "name": "ADIDAS HYBRID 150 FOCUS MITTS",
-        "product_description": "Practise your offensive and defensive movements with these Adidas Hybrid 150 Focus Mitts. Constructed from PU with a thick foam padding that provides optimal shock absorption. They feature a padded palm that includes a grip ball. These pads will help evoke the ebb and flow of a real fight.",
-        "image": "ADIH150FM_black_white_1__17777.1637082847.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 35.99,
+      "sku": "6814201",
+      "name": "ADIDAS HYBRID 150 FOCUS MITTS",
+      "product_description": "Practise your offensive and defensive movements with these Adidas Hybrid 150 Focus Mitts. Constructed from PU with a thick foam padding that provides optimal shock absorption. They feature a padded palm that includes a grip ball. These pads will help evoke the ebb and flow of a real fight.",
+      "image": "ADIH150FM_black_white_1__17777.1637082847.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 114,
     "fields": {
-        "price": 109.99,
-        "sku": "6814201",
-        "name": "ADIDAS ADISTAR PRO GROIN GUARD METALLIC",
-        "product_description": "This Adidas top of the range premium Groin Guard has been designed with comfort and protection in mind and a great look. It features various layers of foam to absorb shock and impact to protect the most sensitive area. The moulded shape ensures you get an optimal fit while the lace system provides a secure and firm closure.",
-        "image": "ADIPGG01PRO_met_gold_silver_black__82857.1630479983.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 109.99,
+      "sku": "6814201",
+      "name": "ADIDAS ADISTAR PRO GROIN GUARD METALLIC",
+      "product_description": "This Adidas top of the range premium Groin Guard has been designed with comfort and protection in mind and a great look. It features various layers of foam to absorb shock and impact to protect the most sensitive area. The moulded shape ensures you get an optimal fit while the lace system provides a secure and firm closure.",
+      "image": "ADIPGG01PRO_met_gold_silver_black__82857.1630479983.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 115,
     "fields": {
-        "price": 179.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS ADISPEED 501 BOXING GLOVES - LIMITED EDITION",
-        "product_description": "Check out the limited edition colourways in these Adidas Adispeed Boxing Gloves. Designed in the USA they are crafted from high-quality genuine leather with one piece injection mould for ideal shock absorption and impact protection. For supreme comfort, they feature a soft inner lining and the rigid strap provides a firm and secure closure.",
-        "image": "ADISBG500PRO_ORANGE_LACE__20484.1630483206.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 179.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS ADISPEED 501 BOXING GLOVES - LIMITED EDITION",
+      "product_description": "Check out the limited edition colourways in these Adidas Adispeed Boxing Gloves. Designed in the USA they are crafted from high-quality genuine leather with one piece injection mould for ideal shock absorption and impact protection. For supreme comfort, they feature a soft inner lining and the rigid strap provides a firm and secure closure.",
+      "image": "ADISBG500PRO_ORANGE_LACE__20484.1630483206.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 116,
     "fields": {
-        "price": 199.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS ADISPEED 501 HOOK & LOOP BOXING GLOVES METALLIC",
-        "product_description": "Bring on your shine with these premium top of the range lace up boxing gloves from Adidas. Crafted from high-quality genuine leather that feature various layers of foam that is ideal shock absorption and impact protection. For supreme comfort, they feature a soft inner lining and the rigid strap ensures a secure fit.",
-        "image": "ADISBG501PRO_gold_silver_black_01__98746.1630484920.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 199.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS ADISPEED 501 HOOK & LOOP BOXING GLOVES METALLIC",
+      "product_description": "Bring on your shine with these premium top of the range lace up boxing gloves from Adidas. Crafted from high-quality genuine leather that feature various layers of foam that is ideal shock absorption and impact protection. For supreme comfort, they feature a soft inner lining and the rigid strap ensures a secure fit.",
+      "image": "ADISBG501PRO_gold_silver_black_01__98746.1630484920.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 117,
     "fields": {
-        "price": 99.99,
-        "sku": "6814201",
-        "name": "ADIDAS LEATHER PRO SPEED 550 FOCUS MITTS",
-        "product_description": "Help improve your form, focus and accuracy with these Adidas Leather Pro Speed 550 focus mitts. The leather perforated fingers help to keep you cool whilst the multi-layered padding gives you ultimate shock absorption. For a secure fit they also feature an adjustable wrist strap.",
-        "image": "ADISP550FM_Adidas_Leather_Pro_Speed_550_Focus_Mitts_01__18645.1621778312.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 99.99,
+      "sku": "6814201",
+      "name": "ADIDAS LEATHER PRO SPEED 550 FOCUS MITTS",
+      "product_description": "Help improve your form, focus and accuracy with these Adidas Leather Pro Speed 550 focus mitts. The leather perforated fingers help to keep you cool whilst the multi-layered padding gives you ultimate shock absorption. For a secure fit they also feature an adjustable wrist strap.",
+      "image": "ADISP550FM_Adidas_Leather_Pro_Speed_550_Focus_Mitts_01__18645.1621778312.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 118,
     "fields": {
-        "price": 27.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "ADIDAS THAI BOXING SHORTS",
-        "product_description": "These Adidas Thai Boxing Shorts have an authentic Muay Thai cut with Thai prints on both sides. They are lightweight to make them really comfortable whilst fighting. The large elasticated waistband with a cord tightening has a contrast 3 stripes design and the Adidas logo on the waistband.",
-        "image": "adisth01_-_black_gold_-_01__24502.1626095338.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 27.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "ADIDAS THAI BOXING SHORTS",
+      "product_description": "These Adidas Thai Boxing Shorts have an authentic Muay Thai cut with Thai prints on both sides. They are lightweight to make them really comfortable whilst fighting. The large elasticated waistband with a cord tightening has a contrast 3 stripes design and the Adidas logo on the waistband.",
+      "image": "adisth01_-_black_gold_-_01__24502.1626095338.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 119,
     "fields": {
-        "price": 24.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "BOXFIT ANTHEM HOODIE",
-        "product_description": "You won't want to take this great hoodie off. The Boxfit men's Anthem hoodie is a luxuriously thick and boasts a soft-feel finish inside and out for extreme comfort. Every detail on this hoodie has been meticulously thought out to create a high impact top. Great for throwing on for training or for those chill out rest days.",
-        "image": "AM001_Black_FT__40540.1637529326.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 24.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "BOXFIT ANTHEM HOODIE",
+      "product_description": "You won't want to take this great hoodie off. The Boxfit men's Anthem hoodie is a luxuriously thick and boasts a soft-feel finish inside and out for extreme comfort. Every detail on this hoodie has been meticulously thought out to create a high impact top. Great for throwing on for training or for those chill out rest days.",
+      "image": "AM001_Black_FT__40540.1637529326.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 120,
     "fields": {
-        "price": 39.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "Adidas Hybrid 100 16oz Boxing Gloves - Black",
-        "product_description": "An outstanding multi-purpose glove that is excellent for pad work, bag work, sparring and fitness training. This really is the ultimate all-rounder. With inside lining for comfort, two piece injection mould foam padding and two-tone rigid elasticated strap that can be secured solidly to provide extra support. Designed with an ergonomic shape for a powerful and fast punch.",
-        "image": "b-g.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 39.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "Adidas Hybrid 100 16oz Boxing Gloves - Black",
+      "product_description": "An outstanding multi-purpose glove that is excellent for pad work, bag work, sparring and fitness training. This really is the ultimate all-rounder. With inside lining for comfort, two piece injection mould foam padding and two-tone rigid elasticated strap that can be secured solidly to provide extra support. Designed with an ergonomic shape for a powerful and fast punch.",
+      "image": "b-g.jpg"
     }
-},
-{
+  },
+  {
     "model": "products.product",
     "pk": 122,
     "fields": {
-        "price": 15.99,
-        "gender": "men",
-        "sku": "6814201",
-        "name": "BOXFIT TECHNICAL POLO SHIRT",
-        "product_description": "This Boxfit UK Technical Polo Shirt is produced using high quality material and advanced manufacturing methods which is designed to endure the rigours of regular wear and washing. Careful attention has been taken in the garment design, fit and functionality and this polo shirt has an active fit. It is light weight and made from polyester micro pinhole material and flat lock seam with silver coverstitch. Its quick dry and easy care as well.",
-        "image": "BOXFIT_TECHNICAL_POLO_SHIRT_BLACK__16101.1618349842.jpg"
+      "category": "1",
+      "subcategory": "1",
+      "price": 15.99,
+      "gender": 1,
+      "sku": "6814201",
+      "name": "BOXFIT TECHNICAL POLO SHIRT",
+      "product_description": "This Boxfit UK Technical Polo Shirt is produced using high quality material and advanced manufacturing methods which is designed to endure the rigours of regular wear and washing. Careful attention has been taken in the garment design, fit and functionality and this polo shirt has an active fit. It is light weight and made from polyester micro pinhole material and flat lock seam with silver coverstitch. Its quick dry and easy care as well.",
+      "image": "BOXFIT_TECHNICAL_POLO_SHIRT_BLACK__16101.1618349842.jpg"
     }
-}
+  }
 ]

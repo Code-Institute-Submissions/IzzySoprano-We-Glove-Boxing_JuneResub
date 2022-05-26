@@ -25,9 +25,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-wc_x$3(_191^nif43&&k^b($8lw4&_pb)r!9cbwyntz!lxt*kf'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = False if os.getenv('DEBUG') == 'off' else True
+print(f"The current value of debug is {DEBUG}")
 
-ALLOWED_HOSTS = ['wegloveboxing.herokuapp.com']
+ALLOWED_HOSTS = ['wegloveboxing.herokuapp.com', 'localhost']
 
 
 # Application definition
@@ -81,7 +82,7 @@ TEMPLATES = [
         'OPTIONS': {
             'context_processors': [
                 'django.template.context_processors.debug',
-                'django.template.context_processors.request', # required by all-auth
+                'django.template.context_processors.request',  # required by all-auth
                 'django.contrib.auth.context_processors.auth',
                 'django.contrib.messages.context_processors.messages',
                 'django.template.context_processors.media',
@@ -117,24 +118,25 @@ LOGIN_REDIRECT_URL = '/'
 
 WSGI_APPLICATION = 'we_glove_boxing.wsgi.application'
 
-
 # Database
-# https://docs.djangoproject.com/en/4.0/ref/settings/#databases
+# https://docs.djangoproject.com/en/4.0/ref/settings/databases
 
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
-#     }
-# }
-
-DATABASES = {
-    'default': dj_database_url.parse(os.getenv('DATABASE_URL', ''))
-}
-
-# DATABASES = {
-#     'default': dj_database_url.parse('postgres://gamnzsonmofxfs:12209e528fde2a19a755bce31bfa291c8c74b1b09347c1fda9570231b7480667@ec2-52-211-158-144.eu-west-1.compute.amazonaws.com:5432/d1ngmhijpcfjka')
-# }
+if DEBUG:
+    print('Loading sqlite3...')
+    DATABASES = {
+        'default': {
+            'ENGINE': 'django.db.backends.sqlite3',
+            'NAME': BASE_DIR / 'db.sqlite3',
+        }
+    }
+else:
+    print('Loading Postgres...')
+    DATABASES = {
+        'default': dj_database_url.parse(os.getenv('DATABASE_URL', ''))
+    }
+    # DATABASES = {
+    #         'default': dj_database_url.parse('postgres://gamnzsonmofxfs:12209e528fde2a19a755bce31bfa291c8c74b1b09347c1fda9570231b7480667@ec2-52-211-158-144.eu-west-1.compute.amazonaws.com:5432/d1ngmhijpcfjka')
+    # }
 
 # Password validation
 # https://docs.djangoproject.com/en/4.0/ref/settings/#auth-password-validators
@@ -172,7 +174,14 @@ USE_TZ = True
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
-STATICFILES_DIRS = (os.path.join(BASE_DIR, 'static'),)
+STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'static'),
+    os.path.join(os.path.join(BASE_DIR, 'bag'), "static"),
+    os.path.join(os.path.join(BASE_DIR, 'checkout'), "static"),
+    os.path.join(os.path.join(BASE_DIR, 'home'), "static"),
+    os.path.join(os.path.join(BASE_DIR, 'products'), "static"),
+    os.path.join(os.path.join(BASE_DIR, 'profiles'), "static"),
+]
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
