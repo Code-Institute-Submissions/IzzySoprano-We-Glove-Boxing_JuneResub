@@ -26,7 +26,6 @@ SECRET_KEY = 'django-insecure-wc_x$3(_191^nif43&&k^b($8lw4&_pb)r!9cbwyntz!lxt*kf
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False if os.getenv('DEBUG') == 'off' else True
-print(f"The current value of debug is {DEBUG}")
 
 ALLOWED_HOSTS = ['wegloveboxing.herokuapp.com', 'localhost']
 
@@ -122,7 +121,6 @@ WSGI_APPLICATION = 'we_glove_boxing.wsgi.application'
 # https://docs.djangoproject.com/en/4.0/ref/settings/databases
 
 if DEBUG:
-    print('Loading sqlite3...')
     DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.sqlite3',
@@ -130,7 +128,6 @@ if DEBUG:
         }
     }
 else:
-    print('Loading Postgres...')
     DATABASES = {
         'default': dj_database_url.parse(os.getenv('DATABASE_URL', ''))
     }
@@ -176,9 +173,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'static'),
-    os.path.join(os.path.join(BASE_DIR, 'bag'), "static"),
     os.path.join(os.path.join(BASE_DIR, 'checkout'), "static"),
-    os.path.join(os.path.join(BASE_DIR, 'home'), "static"),
     os.path.join(os.path.join(BASE_DIR, 'products'), "static"),
     os.path.join(os.path.join(BASE_DIR, 'profiles'), "static"),
 ]
