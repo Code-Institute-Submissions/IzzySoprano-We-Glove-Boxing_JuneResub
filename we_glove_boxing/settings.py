@@ -170,18 +170,22 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/4.0/howto/static-files/
 
 STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
-STATIC_URL = '/static/'
+STATIC_URL = 'static/'
 STATICFILES_DIRS = [
+    os.path.join(BASE_DIR, 'media'),
     os.path.join(BASE_DIR, 'static'),
     os.path.join(os.path.join(BASE_DIR, 'checkout'), "static"),
     os.path.join(os.path.join(BASE_DIR, 'products'), "static"),
     os.path.join(os.path.join(BASE_DIR, 'profiles'), "static"),
 ]
 
-MEDIA_URL = '/media/'
+MEDIA_URL = 'media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 
 if 'USE_AWS' in os.environ:
+
+    print("loading static from AWS")
+
     # Cache control
     AWS_S3_OBJECT_PARAMETERS = {
         'Expires': 'Thu, 31 Dec 2099 20:00:00 GMT',
