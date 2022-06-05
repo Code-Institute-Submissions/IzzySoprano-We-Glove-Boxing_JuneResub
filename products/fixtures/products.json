@@ -1630,7 +1630,7 @@
   },
   {
     "model": "products.product",
-    "pk": 122,
+    "pk": 121,
     "fields": {
       "category": "1",
       "subcategory": "1",
