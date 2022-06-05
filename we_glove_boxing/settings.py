@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-wc_x$3(_191^nif43&&k^b($8lw4&_pb)r!9cbwyntz!lxt*kf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False if os.getenv('DEBUG') == 'off' else True
 
-ALLOWED_HOSTS = ['wegloveboxing.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['wegloveboxing.herokuapp.com', '5000-izzysoprano-wegloveboxin-behvqvxh5cu.ws-eu46.gitpod.io', 'localhost']
 
 
 # Application definition
@@ -202,7 +202,7 @@ if 'USE_AWS' in os.environ:
     # Static and media files
     STATICFILES_STORAGE = 'custom_storages.StaticStorage'
     STATICFILES_LOCATION = 'static'
-    DEFAULT_FILE_STORAGE = 'custom_storages.MediaStorage'
+    DEFAULT_FILE_STORAGE = 'custom_storages.StaticStorage'
     MEDIAFILES_LOCATION = 'media'
 
     # Override static and media URLs in production
