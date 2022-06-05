@@ -1,1 +1,1 @@
-web: gunicorn we_glove_boxing.wsgi
+web: python manage.py migrate && gunicorn we_glove_boxing.wsgi
