@@ -66,7 +66,6 @@ The **features** of the website will be:
 - Select items to purchase by size and quantity, placed in a shopping cart.
 - A checkout page where the items can be paid for with a secure, integrated credit card payment facility.
 - User registration with a profile page showing order history and delivery address.
-- Order confirmation email functionality.
 
 I achieve this by:
 
