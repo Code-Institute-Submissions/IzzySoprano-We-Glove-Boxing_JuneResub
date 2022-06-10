@@ -89,22 +89,19 @@ I achieve this by:
 
 - As a **site user**, I want to be able to register for an account to make future purchases easier
 - As a **site user**, I want to be able to easily log in and out of my account so that I can access my personal account information
-- As a **site user**, I want to be able to receive and email requireing me to verify my email account to finish account registeration.
 - As a **site user**, I want to be able to log in and have a personal profile page containing my delivery details and order history
 - As a **site user**, I want to be able to save and update my delivery information on my personal profile page.
 
 #### Sorting and Searching 
 
-
 - As a **shopper**, I want to be able to sort the available products by price, main category, sub-category or product type
-- As a **shopper**, I want to be able to filter and group products for men, women, unisex or kids.
+- As a **shopper**, I want to be able to filter and group products for men, women or kids.
 - As a **shopper**, I want to be able to see how many products are available based on the sorting / filtering I have applied
 - As a **shopper**, I want to be able to search for a product by name, type or category.
 
 #### Purchasing and Checkout 
 
 
-- As a **shopper**, I want to be able to easily select the size and qualtity of a product when adding it to the shopping cart
 - As a **shopper**, I want to be able to view the items in my shopping cart waiting to be purchased, seeing the sub-total, delivery costs and grand total amounts.
 - As a **shopper**, I want to be able to easily update the items in the shopping cart by changing the quantities of products or remove them from the cart.
 - As a **shopper**, I want to be able to checkout securely where I can enter my delivery and credit card payment details with confidence.
