@@ -63,9 +63,9 @@ The **features** of the website will be:
 
 - Search for products by type, name or category.
 - Expanded menus displaying sub-categories of products to further filter the available products.
-- Select items to purchase by size and quantity, placed in a shopping cart.
+- Select items to purchase by quantity, placed in a shopping cart.
 - A checkout page where the items can be paid for with a secure, integrated credit card payment facility.
-- User registration with a profile page showing order history and delivery address.
+- User registration with a profile page showing order history and address.
 
 I achieve this by:
 
@@ -80,7 +80,7 @@ I achieve this by:
 
 - As a **shopper**, I want to be able to view a list of products so that I can choose some items to purchase.
 - As a **shopper**, I want to be able to filter products that I am interested in without searching through all the products.
-- As a **shopper**, I want to be able to select individual products to see more detailed information and add the item to my shopping cart..
+- As a **shopper**, I want to be able to select individual products to see more detailed information and add the item to my shopping cart.
 - As a **shopper**, I want to be able to see items I have placed in my shopping cart easily so that I can keep track of what I am buying
 -As a **shopper**, I want to be able to see breadcrumb navigation links to see where I am on the site easily.
 
@@ -88,22 +88,19 @@ I achieve this by:
 
 - As a **site user**, I want to be able to register for an account to make future purchases easier
 - As a **site user**, I want to be able to easily log in and out of my account so that I can access my personal account information
-- As a **site user**, I want to be able to log in and have a personal profile page containing my delivery details and order history
-- As a **site user**, I want to be able to save and update my delivery information on my personal profile page.
+- As a **site user**, I want to be able to log in and have a personal profile page containing order history
 
 #### Sorting and Searching 
 
 - As a **shopper**, I want to be able to sort the available products by price, main category, sub-category or product type
 - As a **shopper**, I want to be able to filter and group products for men, women or kids.
-- As a **shopper**, I want to be able to see how many products are available based on the sorting / filtering I have applied
 - As a **shopper**, I want to be able to search for a product by name, type or category.
 
 #### Purchasing and Checkout 
 
-
-- As a **shopper**, I want to be able to view the items in my shopping cart waiting to be purchased, seeing the sub-total, delivery costs and grand total amounts.
+- As a **shopper**, I want to be able to view the items in my shopping cart waiting to be purchased, seeing the grand total amounts.
 - As a **shopper**, I want to be able to easily update the items in the shopping cart by changing the quantities of products or remove them from the cart.
-- As a **shopper**, I want to be able to checkout securely where I can enter my delivery and credit card payment details with confidence.
+- As a **shopper**, I want to be able to checkout securely where I can enter my address and credit card payment details with confidence.
 
 #### Admin and Store Management
 
@@ -251,13 +248,12 @@ The following section describes the site design and page layouts to demonstrate 
 | Add Product | Add New Product | | | |
 | Edit Product | | Single Product | | |
 | Edit Product | | | Update Single Product | |
-| Shopping Cart | | All Products | | |
-| Shopping Cart | | | Update Product Quantity (Session) | |
-| Shopping Cart | | | | Remove Product (Session) |
+| Shopping Bag | | All Products | | |
+| Shopping Bag | | | Update Product Quantity (Session) | |
+| Shopping Bag | | | | Remove Product (Session) |
 | Checkout | | All Products | | |
 | Checkout | Create Order | | | |
 | Checkout | Create Order Line Items | | | |
-| Checkout | | User Delivery Details | | |
 | Checkout | | | Update User Details | |
 | Checkout | | | Update Product Quantity (Session) | |
 | Checkout | | | | Remove Product (Session) |
@@ -265,7 +261,6 @@ The following section describes the site design and page layouts to demonstrate 
 | Log In | | User Details | | |
 | Profile | | User Details | | |
 | Profile | | User's Orders | | |
-| Profile | | | Update Delivery Details | |
 
 ## Defensive Design Features
 
@@ -295,18 +290,7 @@ All new bugs and issues are tracked within the GitHub repository [Issues section
 
 # Testing
 
-## Automated Testing
-
-### Test Driven Development (TDD)
-
-[Django unittest documentation](https://docs.djangoproject.com/en/3.2/topics/testing/overview/)
-
-Using Django's standard unit test library module `unittest`, a class based approach was used to build tests for each app's functionality.
-
-For each app in the project, where applicable, the following files were tested:
-  - `views.py` tested by `test_views.py`
-  - `models.py` tested by `test_models.py`
-  - `forms.py` tested by `test_forms.py`
+Find the full Testing Document [here!](Testing/TESTING.md)
 
 # Deployment
 
@@ -582,3 +566,4 @@ If you need to save images to your S3 bucket, you will need to do the following;
 - [Simon Vardy](https://github.com/simonjvardy) for code snippets and README.md content.
 - [Code Institute](Tutor Support Team)
 - [BoxFit](https://www.boxfituk.com/) - for the images 
+- [My Mentor]
