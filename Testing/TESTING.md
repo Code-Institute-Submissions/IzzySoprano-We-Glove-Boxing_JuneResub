@@ -26,7 +26,7 @@ The following **validation services** and **linters** were used to check the val
 
   - Home:
 
-    ![W3c Markup Validator](Testing/Validator/home.png)
+    ![W3c Markup Validator](/Testing/Validator/home.png)
 
   - Product Page:
 
@@ -208,7 +208,3 @@ Another bug I had to overcome was at one point, as I staretd a new workspace, my
 Another bug I came across was whilst correcting my DEBUG, My deployed link wasn't working. Thankfully with tutor support adnd the slack community, I was able to solve this issue.
 
   ![No Django table](Testing/django_session.png)
-
-  <img alt="No Django table" src="Testing/django_session.png" width="400">
-
-  ![Water Bottle](media/3013696__06181.1604697998.jpg)
