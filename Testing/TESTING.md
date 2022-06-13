@@ -54,7 +54,7 @@ The following **validation services** and **linters** were used to check the val
 
   - Login:
 
-    ![W3C Markup Results image](Testing\Validator\login.png)
+    ![W3C Markup Results image](Testing/Validator/login.png)
 
 ---
 ## Manual Testing ##
@@ -203,10 +203,10 @@ The major setback I kept having was that I struggled to transfermy SQLite databa
 
 Another bug I had to overcome was at one point, as I staretd a new workspace, my static files weren't loading. With the help of my mentor and tutor, support I figured it was due to the paths needed to be changed from MEDIA to STATIC
 
-[Static files not loading](Testing/images.png)
+![Static files not loading](Testing/images.png)
 
 Another bug I came across was whilst correcting my DEBUG, My deployed link wasn't working. Thankfully with tutor support adnd the slack community, I was able to solve this issue.
 
-[No Django table](Testing/django_session.png)
+![No Django table](Testing/django_session.png)
 
 
