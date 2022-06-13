@@ -209,4 +209,4 @@ Another bug I came across was whilst correcting my DEBUG, My deployed link wasn'
 
 ![No Django table](Testing/django_session.png)
 
-
+<img alt="No Django table" src="Testing/django_session.png" width="400">
