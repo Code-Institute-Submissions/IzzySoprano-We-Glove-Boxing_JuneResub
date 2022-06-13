@@ -19,7 +19,7 @@ The following **validation services** and **linters** were used to check the val
   - This validator checks the validity of cascading style sheets (CSS) and (X)HTML documents with style sheets.
   - All CSS files passed the validation service.
 
-    ![W3c CSS Results Image](Testing/Validator/css.png)
+    ![W3c CSS Results Image](/Testing/Validator/css.png)
 
 - [W3C Markup Validator](https://validator.w3.org/)
   - This validator checks the markup validity of Web documents in HTML
