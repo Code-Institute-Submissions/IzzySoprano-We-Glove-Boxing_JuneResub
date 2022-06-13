@@ -124,7 +124,7 @@ I designed the logo with Adobe and added a boxing glove. I decided to make it re
 #FFFFFFF - White
 ##C62020 - Red
 
-![Color Palette](/media/color-palette.png)
+![Color Palette](media/color-palette.png)
 
 
 ### **Wireframes**
