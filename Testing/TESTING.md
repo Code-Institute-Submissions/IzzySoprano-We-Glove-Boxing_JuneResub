@@ -11,8 +11,6 @@
 ---
 ## Automated Testing ##
 
-### Test Driven Development (TDD) ###
-
 ### Validation Services ###
 
 The following **validation services** and **linters** were used to check the validity of the website code.
@@ -44,7 +42,7 @@ The following **validation services** and **linters** were used to check the val
 
   - Bag:
 
-    ![W3C Markup Results image](Testing/Validator/edit-product.png)
+    ![W3C Markup Results image](Testing/Validator/bag.png)
 
   - Profile:
 
@@ -56,7 +54,7 @@ The following **validation services** and **linters** were used to check the val
 
   - Login:
 
-    ![W3C Markup Results image](Testing/Validator/login.png)
+    ![W3C Markup Results image](Testing\Validator\login.png)
 
 ---
 ## Manual Testing ##
